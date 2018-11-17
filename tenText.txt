@@ -1,4 +1,4 @@
-ten
-twenty
-thirty
-fourty
+Ten
+Twenty
+Thirty
+Fourty
