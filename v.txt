@@ -13,7 +13,7 @@
 
     <script>window.archive_setup=[]</script>
         <meta charset="UTF-8">    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=8358e5d" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=8cfc699" type="text/javascript"></script>
 
     <script>
       'use strict';
@@ -30,9 +30,9 @@
         <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
     <script src="//archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
     <script src="//archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/polyfill.min.js?v=8358e5d" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/archive.min.js?v=8358e5d" type="text/javascript"></script>
-    <link href="//archive.org/includes/build/css/archive.min.css?v=8358e5d" rel="stylesheet" type="text/css"/>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=8cfc699" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=8cfc699" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=8cfc699" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -256,7 +256,7 @@
                                                                 <div class="col-sm-2 col-xs-7 col-sm-push-2">
                                                   <div class="linx ">
                                                           <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                      </div>
+                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                          <a href="https://archive.org/details/kodi_archive" title="Kodi Archive and Support File">Kodi Archive and Support File</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -480,7 +480,7 @@
         >Advanced Search</a>
           </div>
     
-                              <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"12/20/2018"}</script>
+                              <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"12/31/2018"}</script>
     
                         <input type="submit" value="Search"/>
                       </form>
@@ -5352,72 +5352,72 @@ Miss Was Kinah
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www26.us.archive.org
+     rendered on: www24.us.archive.org
  seconds diff sec               message   stack(file:line:function)
 =========================================================
   0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
                                              |common/ia:55:require_once
-                                             |setup.php:346:log
-  0.0007   0.0007      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |setup.php:344:log
+  0.0014   0.0014      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
                                              |Metadata.inc:422:get_json_obj
-                                             |Metadata.inc:1776:direct
+                                             |Metadata.inc:1794:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1815:_get_json_obj
-                                             |Metadata.inc:1935:log
-  0.0038   0.0032      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:1953:log
+  0.0118   0.0104      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
                                              |Metadata.inc:422:get_json_obj
-                                             |Metadata.inc:1776:direct
+                                             |Metadata.inc:1794:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1815:_get_json_obj
-                                             |Metadata.inc:2008:fetch
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:2026:fetch
                                              |Metadata/RecordServer.inc:137:execute
                                              |RecordServer/FetchRecordOp.inc:44:log
-  0.0087   0.0048     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.0160   0.0042     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
                                              |Metadata.inc:422:get_json_obj
-                                             |Metadata.inc:1776:direct
+                                             |Metadata.inc:1794:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1815:_get_json_obj
-                                             |Metadata.inc:2008:fetch
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1833:_get_json_obj
+                                             |Metadata.inc:2026:fetch
                                              |Metadata/RecordServer.inc:137:execute
                                              |RecordServer/FetchRecordOp.inc:50:log
-  0.0157   0.0070   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.0201   0.0041   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:989:head
                                              |common/Nav.inc:116:__construct
-                                             |Nav.inc:184:session_start
+                                             |Nav.inc:185:session_start
                                              |Cookies.inc:61:log
-  0.0159   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.0203   0.0002    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:989:head
                                              |common/Nav.inc:116:__construct
-                                             |Nav.inc:184:session_start
+                                             |Nav.inc:185:session_start
                                              |Cookies.inc:67:log
-  0.1265   0.1106              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1095   0.0892              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:1021:footer
                                              |common/setup.php:147:footer
-                                             |Nav.inc:1422:dump
+                                             |Nav.inc:1425:dump
                                              |Bug.inc:114:log
     -->
     <script type="text/javascript">
@@ -5425,8 +5425,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=126;
-    vs[i]['server_name']="www26.us.archive.org";
+    vs[i]['server_ms']=109;
+    vs[i]['server_name']="www24.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {
