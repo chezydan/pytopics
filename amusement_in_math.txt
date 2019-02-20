@@ -37,7 +37,7 @@ The most common units used were:
 
     the Penny,    abbreviated: d. (from the Roman penny, denarius)
     the Shilling, abbreviated: s.
-    the Pound,    abbreviated: £
+    the Pound,    abbreviated: ï¿½
 
 There was 12 Pennies to a Shilling and 20 Shillings to a Pound, so there
 was 240 Pennies in a Pound.
@@ -45,9 +45,9 @@ was 240 Pennies in a Pound.
 To further complicate things, there were many coins which were various
 fractional values of Pennies, Shillings or Pounds.
 
-    Farthing                           ¼d.
+    Farthing                           ï¿½d.
 
-    Half-penny                         ½d.
+    Half-penny                         ï¿½d.
 
     Penny                              1d.
 
@@ -67,14 +67,14 @@ fractional values of Pennies, Shillings or Pounds.
 
     Half-Sovereign                    10s.
 
-    Sovereign (or Pound)        £1 or 20s.
+    Sovereign (or Pound)        ï¿½1 or 20s.
 
 This is by no means a comprehensive list, but it should be adequate to
 solve the puzzles in this book.
 
 Exponents are represented in this text by ^, e.g. '3 squared' is 3^2.
 
-Numbers with fractional components (other than ¼, ½ and ¾) have a +
+Numbers with fractional components (other than ï¿½, ï¿½ and ï¿½) have a +
 symbol separating the whole number component from the fraction. It makes
 the fraction look odd, but yeilds correct solutions no matter how it is
 interpreted. E.G., 4 and eleven twenty-thirds is 4+11/23, not 411/23 or
@@ -341,7 +341,7 @@ Hodge, and Durrant must have taken to the cattle market.
 
 A number of men went out together on a bean-feast. There were four
 parties invited--namely, 25 cobblers, 20 tailors, 18 hatters, and 12
-glovers. They spent altogether £6, 13s. It was found that five cobblers
+glovers. They spent altogether ï¿½6, 13s. It was found that five cobblers
 spent as much as four tailors; that twelve tailors spent as much as nine
 hatters; and that six hatters spent as much as eight glovers. The puzzle
 is to find out how much each of the four parties spent.
@@ -375,7 +375,7 @@ of men and women every time.
 
 7.--THE WIDOW'S LEGACY.
 
-A gentleman who recently died left the sum of £8,000 to be divided among
+A gentleman who recently died left the sum of ï¿½8,000 to be divided among
 his widow, five sons, and four daughters. He directed that every son
 should receive three times as much as a daughter, and that every
 daughter should have twice as much as their mother. What was the widow's
@@ -398,7 +398,7 @@ on him when he started for home?
 
 A man recently bought two aeroplanes, but afterwards found that they
 would not answer the purpose for which he wanted them. So he sold them
-for £600 each, making a loss of 20 per cent. on one machine and a profit
+for ï¿½600 each, making a loss of 20 per cent. on one machine and a profit
 of 20 per cent. on the other. Did he make a profit on the whole
 transaction, or a loss? And how much?
 
@@ -436,7 +436,7 @@ exactly how much money Jorkins had spent on those presents?
 
 12.--A QUEER THING IN MONEY.
 
-It will be found that £66, 6s. 6d. equals 15,918 pence. Now, the four
+It will be found that ï¿½66, 6s. 6d. equals 15,918 pence. Now, the four
 6's added together make 24, and the figures in 15,918 also add to 24. It
 is a curious fact that there is only one other sum of money, in pounds,
 shillings, and pence (all similarly repetitions of one figure), of which
@@ -448,7 +448,7 @@ What is the other sum of money?
 
 The largest sum of money that can be written in pounds, shillings,
 pence, and farthings, using each of the nine digits once and only once,
-is £98,765, 4s. 3½d. Now, try to discover the smallest sum of money
+is ï¿½98,765, 4s. 3ï¿½d. Now, try to discover the smallest sum of money
 that can be written down under precisely the same conditions. There must
 be some value given for each denomination--pounds, shillings, pence,
 and farthings--and the nought may not be used. It requires just a little
@@ -515,14 +515,14 @@ puzzle to discover just what coins were in each box.
 
 A number of market women sold their various products at a certain price
 per pound (different in every case), and each received the same
-amount--2s. 2½d. What is the greatest number of women there could
+amount--2s. 2ï¿½d. What is the greatest number of women there could
 have been? The price per pound in every case must be such as could be
 paid in current money.
 
 
 19.--THE NEW YEAR'S EVE SUPPERS.
 
-The proprietor of a small London café has given me some interesting
+The proprietor of a small London cafï¿½ has given me some interesting
 figures. He says that the ladies who come alone to his place for
 refreshment spend each on an average eighteenpence, that the
 unaccompanied men spend half a crown each, and that when a gentleman
@@ -577,7 +577,7 @@ bought at each price.
 
 Some years ago a man told me he had spent one hundred English silver
 coins in Christmas-boxes, giving every person the same amount, and it
-cost him exactly £1, 10s. 1d. Can you tell just how many persons
+cost him exactly ï¿½1, 10s. 1d. Can you tell just how many persons
 received the present, and how he could have managed the distribution?
 That odd penny looks queer, but it is all right.
 
@@ -623,16 +623,16 @@ ching-chang.
 
 Two youths, bearing the pleasant names of Moggs and Snoggs, were
 employed as junior clerks by a merchant in Mincing Lane. They were both
-engaged at the same salary--that is, commencing at the rate of £50 a
-year, payable half-yearly. Moggs had a yearly rise of £10, and Snoggs
+engaged at the same salary--that is, commencing at the rate of ï¿½50 a
+year, payable half-yearly. Moggs had a yearly rise of ï¿½10, and Snoggs
 was offered the same, only he asked, for reasons that do not concern our
-puzzle, that he might take his rise at £2, 10s. half-yearly, to which
+puzzle, that he might take his rise at ï¿½2, 10s. half-yearly, to which
 his employer (not, perhaps, unnaturally!) had no objection.
 
 Now we come to the real point of the puzzle. Moggs put regularly into
 the Post Office Savings Bank a certain proportion of his salary, while
 Snoggs saved twice as great a proportion of his, and at the end of five
-years they had together saved £268, 15s. How much had each saved? The
+years they had together saved ï¿½268, 15s. How much had each saved? The
 question of interest can be ignored.
 
 
@@ -714,7 +714,7 @@ worrying me a good deal lately. Here it is: We have only been married a
 short time, and now, at the end of two years from the time when we set
 up housekeeping, my husband tells me that he finds we have spent a third
 of his yearly income in rent, rates, and taxes, one-half in domestic
-expenses, and one-ninth in other ways. He has a balance of £190
+expenses, and one-ninth in other ways. He has a balance of ï¿½190
 remaining in the bank. I know this last, because he accidentally left
 out his pass-book the other day, and I peeped into it. Don't you think
 that a husband ought to give his wife his entire confidence in his money
@@ -756,14 +756,14 @@ fourpenny-piece is not now current.
 33.--PUZZLE IN REVERSALS.
 
 Most people know that if you take any sum of money in pounds, shillings,
-and pence, in which the number of pounds (less than £12) exceeds that of
+and pence, in which the number of pounds (less than ï¿½12) exceeds that of
 the pence, reverse it (calling the pounds pence and the pence pounds),
 find the difference, then reverse and add this difference, the result is
-always £12, 18s. 11d. But if we omit the condition, "less than £12," and
+always ï¿½12, 18s. 11d. But if we omit the condition, "less than ï¿½12," and
 allow nought to represent shillings or pence--(1) What is the lowest
 amount to which the rule will not apply? (2) What is the highest amount
-to which it will apply? Of course, when reversing such a sum as £14,
-15s. 3d. it may be written £3, 16s. 2d., which is the same as £3, 15s.
+to which it will apply? Of course, when reversing such a sum as ï¿½14,
+15s. 3d. it may be written ï¿½3, 16s. 2d., which is the same as ï¿½3, 15s.
 14d.
 
 
@@ -851,14 +851,14 @@ crown?
 38.--THE BICYCLE THIEF.
 
 Here is a little tangle that is perpetually cropping up in various
-guises. A cyclist bought a bicycle for £15 and gave in payment a cheque
-for £25. The seller went to a neighbouring shopkeeper and got him to
-change the cheque for him, and the cyclist, having received his £10
+guises. A cyclist bought a bicycle for ï¿½15 and gave in payment a cheque
+for ï¿½25. The seller went to a neighbouring shopkeeper and got him to
+change the cheque for him, and the cyclist, having received his ï¿½10
 change, mounted the machine and disappeared. The cheque proved to be
 valueless, and the salesman was requested by his neighbour to refund the
-amount he had received. To do this, he was compelled to borrow the £25
+amount he had received. To do this, he was compelled to borrow the ï¿½25
 from a friend, as the cyclist forgot to leave his address, and could not
-be found. Now, as the bicycle cost the salesman £11, how much money did
+be found. Now, as the bicycle cost the salesman ï¿½11, how much money did
 he lose altogether?
 
 
@@ -1047,7 +1047,7 @@ Sammy. What was the age of each of the eight individuals?
 
 Three boys were given a bag of nuts as a Christmas present, and it was
 agreed that they should be divided in proportion to their ages, which
-together amounted to 17½ years. Now the bag contained 770 nuts, and
+together amounted to 17ï¿½ years. Now the bag contained 770 nuts, and
 as often as Herbert took four Robert took three, and as often as Herbert
 took six Christopher took seven. The puzzle is to find out how many nuts
 each had, and what were the boys' respective ages.
@@ -1552,7 +1552,7 @@ At first sight you would hardly think there was matter for dispute in
 the question involved in the following little incident, yet it took the
 two persons concerned some little time to come to an agreement. Mr.
 Smithers hired a motor-car to take him from Addleford to Clinkerville
-and back again for £3. At Bakenham, just midway, he picked up an
+and back again for ï¿½3. At Bakenham, just midway, he picked up an
 acquaintance, Mr. Tompkins, and agreed to take him on to Clinkerville
 and bring him back to Bakenham on the return journey. How much should he
 have charged the passenger? That is the question. What was a reasonable
@@ -1591,7 +1591,7 @@ always 1, 4, 7, or 9, and can never be anything else. In fact, the
 series, 1, 4, 9, 7, 7, 9, 4, 1, 9, is repeated into infinity. The
 analogous series for triangular numbers is 1, 3, 6, 1, 6, 3, 1, 9, 9. So
 here we have a similar negative check, for a number cannot be triangular
-(that is, (n² + n)/2) if its digital root be 2, 4, 5, 7, or 8.
+(that is, (nï¿½ + n)/2) if its digital root be 2, 4, 5, 7, or 8.
 
 
 76.--THE BARREL OF BEER.
@@ -1689,12 +1689,12 @@ and the nought may not appear in the hundreds place.
 
 80.--THE THREE GROUPS.
 
-There appeared in "Nouvelles Annales de Mathématiques" the following
+There appeared in "Nouvelles Annales de Mathï¿½matiques" the following
 puzzle as a modification of one of my "Canterbury Puzzles." Arrange the
 nine digits in three groups of two, three, and four digits, so that the
-first two numbers when multiplied together make the third. Thus, 12 ×
+first two numbers when multiplied together make the third. Thus, 12 ï¿½
 483 = 5,796. I now also propose to include the cases where there are
-one, four, and four digits, such as 4 × 1,738 = 6,952. Can you find all
+one, four, and four digits, such as 4 ï¿½ 1,738 = 6,952. Can you find all
 the possible solutions in both cases?
 
 
@@ -1739,7 +1739,7 @@ fractions or decimals are not allowed.
 Here is another entertaining problem with the nine digits, the nought
 being excluded. Using each figure once, and only once, we can form two
 multiplication sums that have the same product, and this may be done in
-many ways. For example, 7 × 658 and 14 × 329 contain all the digits
+many ways. For example, 7 ï¿½ 658 and 14 ï¿½ 329 contain all the digits
 once, and the product in each case is the same--4,606. Now, it will be
 seen that the sum of the digits in the product is 16, which is neither
 the highest nor the lowest sum so obtainable. Can you find the solution
@@ -1840,7 +1840,7 @@ but the numbers are higher.
 
 89.--ADDING THE DIGITS.
 
-If I write the sum of money, £987, 5s. 4½d., and add up the digits,
+If I write the sum of money, ï¿½987, 5s. 4ï¿½d., and add up the digits,
 they sum to 36. No digit has thus been used a second time in the amount
 or addition. This is the largest amount possible under the conditions.
 Now find the smallest possible amount, pounds, shillings, pence, and
@@ -1899,9 +1899,9 @@ numerical arrangement of the figures. Can you give a correct solution
 that employs (1) the fewest possible signs, and (2) the fewest possible
 separate strokes or dots of the pen? That is, it is necessary to use as
 few signs as possible, and those signs should be of the simplest form.
-The signs of addition and multiplication (+ and ×) will thus count as
+The signs of addition and multiplication (+ and ï¿½) will thus count as
 two strokes, the sign of subtraction (-) as one stroke, the sign of
-division (÷) as three, and so on.
+division (ï¿½) as three, and so on.
 
 
 95.--THE FOUR SEVENS.
@@ -1990,10 +1990,10 @@ calculation.
 "A man I know," said Teddy Nicholson at a certain family party,
 "possesses a string of thirty-three pearls. The middle pearl is the
 largest and best of all, and the others are so selected and arranged
-that, starting from one end, each successive pearl is worth £100 more
+that, starting from one end, each successive pearl is worth ï¿½100 more
 than the preceding one, right up to the big pearl. From the other end
-the pearls increase in value by £150 up to the large pearl. The whole
-string is worth £65,000. What is the value of that large pearl?"
+the pearls increase in value by ï¿½150 up to the large pearl. The whole
+string is worth ï¿½65,000. What is the value of that large pearl?"
 
 "Pearls and other articles of clothing," said Uncle Walter, when the
 price of the precious gem had been discovered, "remind me of Adam and
@@ -2255,9 +2255,9 @@ numbers. What are they?
 
 115.--A PRINTER'S ERROR.
 
-In a certain article a printer had to set up the figures 5^4×2^3, which,
+In a certain article a printer had to set up the figures 5^4ï¿½2^3, which,
 of course, means that the fourth power of 5 (625) is to be multiplied by
-the cube of 2 (8), the product of which is 5,000. But he printed 5^4×2^3
+the cube of 2 (8), the product of which is 5,000. But he printed 5^4ï¿½2^3
 as 5 4 2 3, which is not correct. Can you place four digits in the
 manner shown, so that it will be equally correct if the printer sets it
 up aright or makes the same blunder?
@@ -2306,7 +2306,7 @@ shall be rails in the fence?
 The man wishes to fence in a perfectly square field which is to contain
 just as many acres as there are rails in the required fence. Each
 hurdle, or portion of fence, is seven rails high, and two lengths would
-extend one pole (16½ ft.): that is to say, there are fourteen rails
+extend one pole (16ï¿½ ft.): that is to say, there are fourteen rails
 to the pole, lineal measure. Now, what must be the size of the field?
 
 
@@ -2482,7 +2482,7 @@ thereof, and woe to the hardy Norman who ventured to enter their
 redoubts; for a single blow of a Saxon war-hatchet would break his lance
 and cut through his coat of mail.... When Harold threw himself into the
 fray the Saxons were one mighty square of men, shouting the
-battle-cries, 'Ut!' 'Olicrosse!' 'Godemitè!'"
+battle-cries, 'Ut!' 'Olicrosse!' 'Godemitï¿½!'"
 
 Now, I find that all the contemporary authorities agree that the Saxons
 did actually fight in this solid order. For example, in the "Carmen de
@@ -2502,8 +2502,8 @@ been?
 
 In order to make clear to the reader the simplicity of the question, I
 will give the lowest solutions in the case of 60 and 62, the numbers
-immediately preceding and following 61. They are 60 × 4² + 1 = 31²,
-and 62 × 8² + 1 = 63². That is, 60 squares of 16 men each would be 960
+immediately preceding and following 61. They are 60 ï¿½ 4ï¿½ + 1 = 31ï¿½,
+and 62 ï¿½ 8ï¿½ + 1 = 63ï¿½. That is, 60 squares of 16 men each would be 960
 men, and when Harold joined them they would be 961 in number, and so
 form a square with 31 men on every side. Similarly in the case of the
 figures I have given for 62. Now, find the lowest answer for 61.
@@ -2607,11 +2607,11 @@ doubloons had each?
 There are a good many equally correct answers to this question. Here is
 one of them:
 
-    A    6 × 12  = 72
-    B   12 ×  3  = 36
-    C   17 ×  1  = 17
-    D  120 ×  ½  = 60
-    E   45 × 1/3 = 15
+    A    6 ï¿½ 12  = 72
+    B   12 ï¿½  3  = 36
+    C   17 ï¿½  1  = 17
+    D  120 ï¿½  ï¿½  = 60
+    E   45 ï¿½ 1/3 = 15
        ___        ___
        200        200
 
@@ -2691,14 +2691,14 @@ that we add, containing just one more counter than the row above it,
 makes a larger triangle.
 
 Now, half the sum of any number and its square is always a triangular
-number. Thus half of 2 + 2² = 3; half of 3 + 3² = 6; half of 4 +
-4² = 10; half of 5 + 5²= 15; and so on. So if we want to form a
+number. Thus half of 2 + 2ï¿½ = 3; half of 3 + 3ï¿½ = 6; half of 4 +
+4ï¿½ = 10; half of 5 + 5ï¿½= 15; and so on. So if we want to form a
 triangle with 8 counters on each side we shall require half of 8 +
-8², or 36 counters. This is a pretty little property of numbers.
+8ï¿½, or 36 counters. This is a pretty little property of numbers.
 Before going further, I will here say that if the reader refers to the
 "Stonemason's Problem" (No. 135) he will remember that the sum of any
 number of consecutive cubes beginning with 1 is always a square, and
-these form the series 1², 3², 6², 10², etc. It will now be understood
+these form the series 1ï¿½, 3ï¿½, 6ï¿½, 10ï¿½, etc. It will now be understood
 when I say that one of the keys to the puzzle was the fact that these
 are always the squares of triangular numbers--that is, the squares of 1,
 3, 6, 10, 15, 21, 28, etc., any of which numbers we have seen will form
@@ -2722,7 +2722,7 @@ her last New Year's Eve that when she had saved so many sovereigns that
 she could lay them all out on the table so as to form a perfect square,
 or a perfect triangle, or two triangles, or three triangles, just as he
 might choose to ask he would add five pounds to her treasure. Soon she
-went to her husband with a little bag of £36 in sovereigns and claimed
+went to her husband with a little bag of ï¿½36 in sovereigns and claimed
 her reward. It will be found that the thirty-six coins will form a
 square (with side 6), that they will form a single triangle (with side
 8), that they will form two triangles (with sides 5 and 6), and that
@@ -2811,10 +2811,10 @@ solve the puzzle to-day? A far greater proportion than then, let us
 hope.
 
 Three Dutchmen, named Hendrick, Elas, and Cornelius, and their wives,
-Gurtrün, Katrün, and Anna, purchase hogs. Each buys as many as he (or
+Gurtrï¿½n, Katrï¿½n, and Anna, purchase hogs. Each buys as many as he (or
 she) gives shillings for one. Each husband pays altogether three guineas
-more than his wife. Hendrick buys twenty-three more hogs than Katrün,
-and Elas eleven more than Gurtrün. Now, what was the name of each man's
+more than his wife. Hendrick buys twenty-three more hogs than Katrï¿½n,
+and Elas eleven more than Gurtrï¿½n. Now, what was the name of each man's
 wife?
 
 [Illustration]
@@ -2829,11 +2829,11 @@ sharpeners," but was rejected with the remark that it is childish and
 that they only published problems capable of solution! Five ladies,
 accompanied by their daughters, bought cloth at the same shop. Each of
 the ten paid as many farthings per foot as she bought feet, and each
-mother spent 8s. 5¼d. more than her daughter. Mrs. Robinson spent 6s.
+mother spent 8s. 5ï¿½d. more than her daughter. Mrs. Robinson spent 6s.
 more than Mrs. Evans, who spent about a quarter as much as Mrs. Jones.
 Mrs. Smith spent most of all. Mrs. Brown bought 21 yards more than
 Bessie--one of the girls. Annie bought 16 yards more than Mary and spent
-£3, 0s. 8d. more than Emily. The Christian name of the other girl was
+ï¿½3, 0s. 8d. more than Emily. The Christian name of the other girl was
 Ada. Now, what was her surname?
 
 
@@ -2872,7 +2872,7 @@ the appeal they make to the eye as well as to the brain. Sometimes an
 algebraical formula or theorem seems to give pleasure to the
 mathematician's eye, but it is probably only an intellectual pleasure.
 But there can be no doubt that in the case of certain geometrical
-problems, notably dissection or superposition puzzles, the æsthetic
+problems, notably dissection or superposition puzzles, the ï¿½sthetic
 faculty in man contributes to the delight. For example, there are
 probably few readers who will examine the various cuttings of the Greek
 cross in the following pages without being in some degree stirred by a
@@ -2986,7 +2986,7 @@ GREEK CROSS PUZZLES.
 
     "But, for my part, it was Greek to me."
 
-    _Julius Cæsar_, i. 2.
+    _Julius Cï¿½sar_, i. 2.
 
 Many people are accustomed to consider the cross as a wholly Christian
 symbol. This is erroneous: it is of very great antiquity. The ancient
@@ -3491,15 +3491,15 @@ So far, so good. Now, we are directed to apply the old step principle,
 as shown, and, by moving down the piece 4 one step, form the required
 square. But, unfortunately, it does _not_ produce a square: only an
 oblong. Call the three long sides of the mitre 84 in. each. Then, before
-cutting the steps, our rectangle in three pieces will be 84 × 63. The
-steps must be 10½ in. in height and 12 in. in breadth. Therefore, by
+cutting the steps, our rectangle in three pieces will be 84 ï¿½ 63. The
+steps must be 10ï¿½ in. in height and 12 in. in breadth. Therefore, by
 moving down a step we reduce by 12 in. the side 84 in. and increase by
-10½ in. the side 63 in. Hence our final rectangle must be 72 in. × 73½
+10ï¿½ in. the side 63 in. Hence our final rectangle must be 72 in. ï¿½ 73ï¿½
 in., which certainly is not a square! The fact is, the step principle
 can only be applied to rectangles with sides of particular relative
 lengths. For example, if the shorter side in this case were 61+5/7
 (instead of 63), then the step method would apply. For the steps would
-then be 10+2/7 in. in height and 12 in. in breadth. Note that 61+5/7 ×
+then be 10+2/7 in. in height and 12 in. in breadth. Note that 61+5/7 ï¿½
 84 = the square of 72. At present no solution has been found in four
 pieces, and I do not believe one possible.
 
@@ -3551,7 +3551,7 @@ two of the corners of a pretty hearthrug. The damaged corners have been
 cut away, and it now has the appearance and proportions shown in my
 diagram. How is Mrs. Hobson to cut the rug into the fewest possible
 pieces that will fit together and form a perfectly square rug? It will
-be seen that the rug is in the proportions 36 × 27 (it does not matter
+be seen that the rug is in the proportions 36 ï¿½ 27 (it does not matter
 whether we say inches or yards), and each piece cut away measured 12 and
 6 on the outside.
 
@@ -3783,31 +3783,31 @@ combination.
 
 [Illustration:
 
-    ·-----------·-----------·-----------·-----------·
-    | ·       ·   ·|||||||·   ·|||||||·   ·       · |
-    |   ·           ·|||·       ·|||·       ·   ·   |
-    |     ·           ·           ·           ·     |
-    |   ·   ·       ·   ·       ·   ·       ·   ·   |
-    | ·       ·   ·       ·   ·       ·   ·       · |
-    ·           ·           ·           ·           ·
-    ||·       ·   ·       ·   ·     /|\   ·       ·||
-    ||||·   ·       ·   ·       ·   \|/     ·   ·||||
-    ||||||·           ·           ·           ·||||||
-    ||||·   ·       ·   ·       ·   ·       ·   ·||||
-    ||·       ·   ·       ·   ·       ·   ·       ·||
-    ·           ·           ·           ·           ·
-    ||·       ·   ·       ·   ·       ·   ·       ·||
-    ||||·   ·       ·   ·       ·   ·       ·   ·||||
-    ||||||·           ·           ·           ·||||||
-    ||||·   ·       ·   ·       ·   ·       ·   ·||||
-    ||·       ·   ·       ·   ·       ·   ·       ·||
-    ·           ·           ·           ·           ·
-    | ·       ·   ·       ·   ·       ·   ·       · |
-    |   ·   ·       ·   ·       ·   ·       ·   ·   |
-    |     ·           ·           ·           ·     |
-    |   ·           ·|||·       ·|||·       ·   ·   |
-    | ·       ·   ·|||||||·   ·|||||||·   ·       · |
-    ·-----------·-----------·-----------·-----------·
+    ï¿½-----------ï¿½-----------ï¿½-----------ï¿½-----------ï¿½
+    | ï¿½       ï¿½   ï¿½|||||||ï¿½   ï¿½|||||||ï¿½   ï¿½       ï¿½ |
+    |   ï¿½           ï¿½|||ï¿½       ï¿½|||ï¿½       ï¿½   ï¿½   |
+    |     ï¿½           ï¿½           ï¿½           ï¿½     |
+    |   ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½   |
+    | ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½ |
+    ï¿½           ï¿½           ï¿½           ï¿½           ï¿½
+    ||ï¿½       ï¿½   ï¿½       ï¿½   ï¿½     /|\   ï¿½       ï¿½||
+    ||||ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   \|/     ï¿½   ï¿½||||
+    ||||||ï¿½           ï¿½           ï¿½           ï¿½||||||
+    ||||ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½||||
+    ||ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½||
+    ï¿½           ï¿½           ï¿½           ï¿½           ï¿½
+    ||ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½||
+    ||||ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½||||
+    ||||||ï¿½           ï¿½           ï¿½           ï¿½||||||
+    ||||ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½||||
+    ||ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½||
+    ï¿½           ï¿½           ï¿½           ï¿½           ï¿½
+    | ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½ |
+    |   ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½       ï¿½   ï¿½   |
+    |     ï¿½           ï¿½           ï¿½           ï¿½     |
+    |   ï¿½           ï¿½|||ï¿½       ï¿½|||ï¿½       ï¿½   ï¿½   |
+    | ï¿½       ï¿½   ï¿½|||||||ï¿½   ï¿½|||||||ï¿½   ï¿½       ï¿½ |
+    ï¿½-----------ï¿½-----------ï¿½-----------ï¿½-----------ï¿½
 
 ]
 
@@ -4218,9 +4218,9 @@ were made in accordance with these conditions?
 
 A lady was presented, by two of her girl friends, with the pretty pieces
 of silk patchwork shown in our illustration. It will be seen that both
-pieces are made up of squares all of the same size--one 12 × 12 and the
-other 5 × 5. She proposes to join them together and make one square
-patchwork quilt, 13 × 13, but, of course, she will not cut any of the
+pieces are made up of squares all of the same size--one 12 ï¿½ 12 and the
+other 5 ï¿½ 5. She proposes to join them together and make one square
+patchwork quilt, 13 ï¿½ 13, but, of course, she will not cut any of the
 material--merely cut the stitches where necessary and join together
 again. What perplexes her is this. A friend assures her that there need
 be no more than four pieces in all to join up for the new quilt. Could
@@ -4235,7 +4235,7 @@ pieces?
 The diagram herewith represents two separate pieces of linoleum. The
 chequered pattern is not repeated at the back, so that the pieces cannot
 be turned over. The puzzle is to cut the two squares into four pieces so
-that they shall fit together and form one perfect square 10 × 10, so
+that they shall fit together and form one perfect square 10 ï¿½ 10, so
 that the pattern shall properly match, and so that the larger piece
 shall have as small a portion as possible cut from it.
 
@@ -5977,7 +5977,7 @@ been placed elsewhere; but readers are again asked not to be too
 critical about the classification, which is very difficult and
 arbitrary. As I have included my problem of "The Round Table" (No. 273),
 perhaps a few remarks on another well-known problem of the same class,
-known by the French as La Problême des Ménages, may be interesting. If
+known by the French as La Problï¿½me des Mï¿½nages, may be interesting. If
 n married ladies are seated at a round table in any determined order,
 in how many different ways may their n husbands be placed so that
 every man is between two ladies but never next to his own wife?
@@ -5994,8 +5994,8 @@ in the following table is due to Moreau:--
     10    43979   439792
 
 The first column shows the number of married couples. The numbers in the
-second column are obtained in this way: 5 × 3 + 0 - 2 = 13; 6 × 13 + 3 +
-2 = 83; 7 × 83 + 13 - 2 = 592; 8 × 592 + 83 + 2 = 4821; and so on. Find
+second column are obtained in this way: 5 ï¿½ 3 + 0 - 2 = 13; 6 ï¿½ 13 + 3 +
+2 = 83; 7 ï¿½ 83 + 13 - 2 = 592; 8 ï¿½ 592 + 83 + 2 = 4821; and so on. Find
 all the numbers, except 2, in the table, and the method will be evident.
 It will be noted that the 2 is subtracted when the first number (the
 number of couples) is odd, and added when that number is even. The
@@ -6019,7 +6019,7 @@ placed in eighty different ways, which agrees with the above table.
 
 262.--THOSE FIFTEEN SHEEP.
 
-A certain cyclopædia has the following curious problem, I am told:
+A certain cyclopï¿½dia has the following curious problem, I am told:
 "Place fifteen sheep in four pens so that there shall be the same number
 of sheep in each pen." No answer whatever is vouchsafed, so I thought I
 would investigate the matter. I saw that in dealing with apples or
@@ -6043,7 +6043,7 @@ fields, and a small flock of wethers, so if you will just step down with
 me I will show you how it is done." The illustration depicts my friend
 as he is about to demonstrate the matter to me. His lucid explanation
 was evidently that which was in the mind of the writer of the article in
-the cyclopædia. What was it? Can you place those fifteen sheep?
+the cyclopï¿½dia. What was it? Can you place those fifteen sheep?
 
 
 263.--KING ARTHUR'S KNIGHTS.
@@ -6696,7 +6696,7 @@ I first deal with a few questions affecting the chessboard itself; then
 with certain statical puzzles relating to the Rook, the Bishop, the
 Queen, and the Knight in turn; then dynamical puzzles with the pieces in
 the same order; and, finally, with some miscellaneous puzzles on the
-chessboard. It is hoped that the formulæ and tables given at the end of
+chessboard. It is hoped that the formulï¿½ and tables given at the end of
 the statical puzzles will be of interest, as they are, for the most
 part, published for the first time.
 
@@ -7320,7 +7320,7 @@ familiar with the "Eight Queens" problem could hope to solve it.
 
 304.--BACHET'S SQUARE.
 
-One of the oldest card puzzles is by Claude Caspar Bachet de Méziriac,
+One of the oldest card puzzles is by Claude Caspar Bachet de Mï¿½ziriac,
 first published, I believe, in the 1624 edition of his work. Rearrange
 the sixteen court cards (including the aces) in a square so that in no
 row of four cards, horizontal, vertical, or diagonal, shall be found two
@@ -7382,7 +7382,7 @@ rearrange them?
 The Insurance Act is a most prolific source of entertaining puzzles,
 particularly entertaining if you happen to be among the exempt. One's
 initiation into the gentle art of stamp-licking suggests the following
-little poser: If you have a card divided into sixteen spaces (4 × 4),
+little poser: If you have a card divided into sixteen spaces (4 ï¿½ 4),
 and are provided with plenty of stamps of the values 1d., 2d., 3d., 4d.,
 and 5d., what is the greatest value that you can stick on the card if
 the Chancellor of the Exchequer forbids you to place any stamp in a
@@ -7642,34 +7642,34 @@ On an ordinary chessboard every square can be guarded by 12 knights if
 all but 4 are unprotected. But if every knight must be protected, 14 are
 necessary. (See No. 319, "The Knight-Guards.")
 
-Dealing with the queen on n² boards generally, where n is less
+Dealing with the queen on nï¿½ boards generally, where n is less
 than 8, the following results will be of interest:--
 
 
-1 queen guards 2² board in 1 fundamental way.
+1 queen guards 2ï¿½ board in 1 fundamental way.
 
-1 queen guards 3² board in 1 fundamental way.
+1 queen guards 3ï¿½ board in 1 fundamental way.
 
-2 queens guard 4² board in 3 fundamental ways (protected).
+2 queens guard 4ï¿½ board in 3 fundamental ways (protected).
 
-3 queens guard 4² board in 2 fundamental ways (not protected).
+3 queens guard 4ï¿½ board in 2 fundamental ways (not protected).
 
-3 queens guard 5² board in 37 fundamental ways (protected).
+3 queens guard 5ï¿½ board in 37 fundamental ways (protected).
 
-3 queens guard 5² board in 2 fundamental ways (not protected).
+3 queens guard 5ï¿½ board in 2 fundamental ways (not protected).
 
-3 queens guard 6² board in 1 fundamental way (protected).
+3 queens guard 6ï¿½ board in 1 fundamental way (protected).
 
-4 queens guard 6² board in 17 fundamental ways (not protected).
+4 queens guard 6ï¿½ board in 17 fundamental ways (not protected).
 
-4 queens guard 7² board in 5 fundamental ways (protected).
+4 queens guard 7ï¿½ board in 5 fundamental ways (protected).
 
-4 queens guard 7² board in 1 fundamental way (not protected).
+4 queens guard 7ï¿½ board in 1 fundamental way (not protected).
 
 
 NON-ATTACKING CHESSBOARD ARRANGEMENTS.
 
-We know that n queens may always be placed on a square board of n²
+We know that n queens may always be placed on a square board of nï¿½
 squares (if n be greater than 3) without any queen attacking another
 queen. But no general formula for enumerating the number of different
 ways in which it may be done has yet been discovered; probably it is
@@ -7691,22 +7691,22 @@ Where n = 10 there are 92 fundamental solutions.
 
 Where n = 11 there are 341 fundamental solutions.
 
-Obviously n rooks may be placed without attack on an n² board in n!
+Obviously n rooks may be placed without attack on an nï¿½ board in n!
 ways, but how many of these are fundamentally different I have only
 worked out in the four cases where n equals 2, 3, 4, and 5. The answers
 here are respectively 1, 2, 7, and 23. (See No. 296, "The Four Lions.")
 
-We can place 2n-2 bishops on an n² board in 2^{n} ways. (See No. 299,
+We can place 2n-2 bishops on an nï¿½ board in 2^{n} ways. (See No. 299,
 "Bishops in Convocation.") For boards containing 2, 3, 4, 5, 6, 7, 8
 squares, on a side there are respectively 1, 2, 3, 6, 10, 20, 36
 fundamentally different arrangements. Where n is odd there are
-2^{½(n-1)} such arrangements, each giving 4 by reversals and
-reflections, and 2^{n-3} - 2^{½(n-3)} giving 8. Where n is even there
-are 2^{½(n-2)}, each giving 4 by reversals and reflections, and 2^{n-3}
-- 2^{½(n-4)}, each giving 8.
+2^{ï¿½(n-1)} such arrangements, each giving 4 by reversals and
+reflections, and 2^{n-3} - 2^{ï¿½(n-3)} giving 8. Where n is even there
+are 2^{ï¿½(n-2)}, each giving 4 by reversals and reflections, and 2^{n-3}
+- 2^{ï¿½(n-4)}, each giving 8.
 
-We can place ½(n²+1) knights on an n² board without attack, when n
-is odd, in 1 fundamental way; and ½n² knights on an n² board, when
+We can place ï¿½(nï¿½+1) knights on an nï¿½ board without attack, when n
+is odd, in 1 fundamental way; and ï¿½nï¿½ knights on an nï¿½ board, when
 n is even, in 1 fundamental way. In the first case we place all the
 knights on the same colour as the central square; in the second case we
 place them all on black, or all on white, squares.
@@ -7714,26 +7714,26 @@ place them all on black, or all on white, squares.
 
 THE TWO PIECES PROBLEM.
 
-On a board of n² squares, two queens, two rooks, two bishops, or two
-knights can always be placed, irrespective of attack or not, in ½(n^{4}
-- n²) ways. The following formulæ will show in how many of these ways
+On a board of nï¿½ squares, two queens, two rooks, two bishops, or two
+knights can always be placed, irrespective of attack or not, in ï¿½(n^{4}
+- nï¿½) ways. The following formulï¿½ will show in how many of these ways
 the two pieces may be placed with attack and without:--
 
                With Attack.          Without Attack.
 
-    2 Queens      5n³ - 6n² + n         3n^{4} - 10n³ + 9n² - 2n
+    2 Queens      5nï¿½ - 6nï¿½ + n         3n^{4} - 10nï¿½ + 9nï¿½ - 2n
                -------------------    ------------------------------
                         3                           6
 
-    2 Rooks          n³ - n²                n^{4} - 2n³ + n²
+    2 Rooks          nï¿½ - nï¿½                n^{4} - 2nï¿½ + nï¿½
                                           ----------------------
                                                     2
 
-    2 Bishops   4n³ - 6n² + 2n       3n^{4} - 4n³ + 3n² - 2n
+    2 Bishops   4nï¿½ - 6nï¿½ + 2n       3n^{4} - 4nï¿½ + 3nï¿½ - 2n
                --------------------   -----------------------------
                         6                           6
 
-    2 Knights    4n² - 12n + 8            n^{4} - 9n² + 24n
+    2 Knights    4nï¿½ - 12n + 8            n^{4} - 9nï¿½ + 24n
                                           --------------------
                                                     2
 
@@ -8152,9 +8152,9 @@ every square of the board in fourteen moves, ending wherever you like.
     +---+---+---+---+---+---+---+---+
     | * | * | * | * | * | * | * | * |
     +---+---+---+---+---+---+---+---+
-    | * | * | ¤ | * | * | * | * | * |
+    | * | * | ï¿½ | * | * | * | * | * |
     +---+---+---+---+---+---+---+---+
-    | * | * | * | ¤ | * | * | * | * |
+    | * | * | * | ï¿½ | * | * | * | * |
     +---+---+---+---+---+---+---+---+
     | * | * | * | * | * | * | * | * |
     +---+---+---+---+---+---+---+---+
@@ -8800,10 +8800,10 @@ capacity was that propounded by Niccola Fontana, better known as
 of valuable balsam into three equal parts, the only measures available
 being vessels holding 5, 11, and 13 ounces respectively. There are many
 different solutions to this puzzle in six manipulations, or pourings
-from one vessel to another. Bachet de Méziriac reprinted this and other
-of Tartaglia's puzzles in his _Problèmes plaisans et délectables_
+from one vessel to another. Bachet de Mï¿½ziriac reprinted this and other
+of Tartaglia's puzzles in his _Problï¿½mes plaisans et dï¿½lectables_
 (1612). It is the general opinion that puzzles of this class can only be
-solved by trial, but I think formulæ can be constructed for the solution
+solved by trial, but I think formulï¿½ can be constructed for the solution
 generally of certain related cases. It is a practically unexplored field
 for investigation.
 
@@ -8925,7 +8925,7 @@ wine and water. Can you find from these facts the capacity of the jug?
 369.--MIXING THE TEA.
 
 "Mrs. Spooner called this morning," said the honest grocer to his
-assistant. "She wants twenty pounds of tea at 2s. 4½d. per lb. Of
+assistant. "She wants twenty pounds of tea at 2s. 4ï¿½d. per lb. Of
 course we have a good 2s. 6d. tea, a slightly inferior at 2s. 3d., and a
 cheap Indian at 1s. 9d., but she is very particular always about her
 prices."
@@ -8972,7 +8972,7 @@ says that gold is not usually "put up" in slabs of the dimensions that I
 give, I can only claim problematic licence.
 
 Russian officials were engaged in packing 800 gold slabs, each measuring
-12½ inches long, 11 inches wide, and 1 inch deep. What are the
+12ï¿½ inches long, 11 inches wide, and 1 inch deep. What are the
 interior dimensions of a box of equal length and width, and necessary
 depth, that will exactly contain them without any space being left over?
 Not more than twelve slabs may be laid on edge, according to the rules
@@ -9011,7 +9011,7 @@ CROSSING RIVER PROBLEMS
     BYRON.
 
 
-This is another mediæval class of puzzles. Probably the earliest example
+This is another mediï¿½val class of puzzles. Probably the earliest example
 was by Abbot Alcuin, who was born in Yorkshire in 735 and died at Tours
 in 804. And everybody knows the story of the man with the wolf, goat,
 and basket of cabbages whose boat would only take one of the three at a
@@ -9049,8 +9049,8 @@ West," a piratical band buried on the coast of South Devon a quantity of
 treasure which was, of course, abandoned by them in the usual
 inexplicable way. Some time afterwards its whereabouts was discovered by
 three countrymen, who visited the spot one night and divided the spoil
-between them, Giles taking treasure to the value of £800, Jasper £500
-worth, and Timothy £300 worth. In returning they had to cross the river
+between them, Giles taking treasure to the value of ï¿½800, Jasper ï¿½500
+worth, and Timothy ï¿½300 worth. In returning they had to cross the river
 Axe at a point where they had left a small boat in readiness. Here,
 however, was a difficulty they had not anticipated. The boat would only
 carry two men, or one man and a sack, and they had so little confidence
@@ -9407,11 +9407,11 @@ introducing a puzzle that deals with betting.
 
 Three horses--Acorn, Bluebottle, and Capsule--start in a race. The odds
 are 4 to 1, Acorn; 3 to 1, Bluebottle; 2 to 1, Capsule. Now, how much
-must I invest on each horse in order to win £13, no matter which horse
-comes in first? Supposing, as an example, that I betted £5 on each
-horse. Then, if Acorn won, I should receive £20 (four times £5), and
-have to pay £5 each for the other two horses; thereby winning £10. But
-it will be found that if Bluebottle was first I should only win £5, and
+must I invest on each horse in order to win ï¿½13, no matter which horse
+comes in first? Supposing, as an example, that I betted ï¿½5 on each
+horse. Then, if Acorn won, I should receive ï¿½20 (four times ï¿½5), and
+have to pay ï¿½5 each for the other two horses; thereby winning ï¿½10. But
+it will be found that if Bluebottle was first I should only win ï¿½5, and
 if Capsule won I should gain nothing and lose nothing. This will make
 the question perfectly clear to the novice, who, like myself, is not
 interested in the calling of the fraternity who profess to be engaged in
@@ -9614,7 +9614,7 @@ last cigar, assuming that they each will play in the best possible
 manner? The size of the table top and the size of the cigar are not
 given, but in order to exclude the ridiculous answer that the table
 might be so diminutive as only to take one cigar, we will say that the
-table must not be less than 2 feet square and the cigar not more than 4½
+table must not be less than 2 feet square and the cigar not more than 4ï¿½
 inches long. With those restrictions you may take any dimensions you
 like. Of course we assume that all the cigars are exactly alike in
 every respect. Should the first player, or the second player, win?
@@ -9640,7 +9640,7 @@ any dimensions. Almost the last word has been said on this subject. The
 question of the enumeration of all the possible squares of a given order
 stands just where it did over two hundred years ago. Everybody knows
 that there is only one solution for the third order, three cells by
-three; and Frénicle published in 1693 diagrams of all the arrangements
+three; and Frï¿½nicle published in 1693 diagrams of all the arrangements
 of the fourth order--880 in number--and his results have been verified
 over and over again. I may here refer to the general solution for this
 order, for numbers not necessarily consecutive, by E. Bergholt in
@@ -9649,7 +9649,7 @@ of this subject. The enumeration of the examples of any higher order is
 a completely unsolved problem.
 
 As to classification, it is largely a matter of individual
-taste--perhaps an æsthetic question, for there is beauty in the law and
+taste--perhaps an ï¿½sthetic question, for there is beauty in the law and
 order of numbers. A man once said that he divided the human race into
 two great classes: those who take snuff and those who do not. I am not
 sure that some of our classifications of magic squares are not almost as
@@ -9682,7 +9682,7 @@ equidistant, in a straight line, from the centre gives 17. Thus, 1 + 16,
 of all, is a Nasik. Here all the broken diagonals sum to 34. Thus, for
 example, 15 + 14 + 2 + 3, and 10 + 4 + 7 + 13, and 15 + 5 + 2 + 12. As a
 consequence, its properties are such that if you repeat the square in
-all directions you may mark off a square, 4 × 4, wherever you please,
+all directions you may mark off a square, 4 ï¿½ 4, wherever you please,
 and it will be magic.
 
 The following table not only gives a complete enumeration under the four
@@ -10155,7 +10155,7 @@ The word "labyrinth" is derived from a Greek word signifying the
 passages of a mine. The ancient mines of Greece and elsewhere inspired
 fear and awe on account of their darkness and the danger of getting lost
 in their intricate passages. Legend was afterwards built round these
-mazes. The most familiar instance is the labyrinth made by Dædalus in
+mazes. The most familiar instance is the labyrinth made by Dï¿½dalus in
 Crete for King Minos. In the centre was placed the Minotaur, and no one
 who entered could find his way out again, but became the prey of the
 monster. Seven youths and seven maidens were sent regularly by the
@@ -10177,7 +10177,7 @@ them as symbols of the complicated folds of sin by which man is
 surrounded. They began to abound in the early part of the twelfth
 century, and I give an illustration of one of this period in the parish
 church at St. Quentin (Fig. 1). It formed a pavement of the nave, and
-its diameter is 34½ feet. The path here is the line itself. If you place
+its diameter is 34ï¿½ feet. The path here is the line itself. If you place
 your pencil at the point A and ignore the enclosing line, the line leads
 you to the centre by a long route over the entire area; but you never
 have any option as to direction during your course. As we shall find in
@@ -10216,12 +10216,12 @@ got from one end to the other."
 
 Then these mazes were sometimes reduced in size and represented on a
 single tile (Fig. 3). I give an example from Lucca Cathedral. It is on
-one of the porch piers, and is 19½ inches in diameter. A writer in
+one of the porch piers, and is 19ï¿½ inches in diameter. A writer in
 1858 says that, "from the continual attrition it has received from
 thousands of tracing fingers, a central group of Theseus and the
 Minotaur has now been very nearly effaced." Other examples were, and
 perhaps still are, to be found in the Abbey of Toussarts, at
-Châlons-sur-Marne, in the very ancient church of St. Michele at Pavia,
+Chï¿½lons-sur-Marne, in the very ancient church of St. Michele at Pavia,
 at Aix in Provence, in the cathedrals of Poitiers, Rheims, and Arras, in
 the church of Santa Maria in Aquiro in Rome, in San Vitale at Ravenna,
 in the Roman mosaic pavement found at Salzburg, and elsewhere. These
@@ -10430,7 +10430,7 @@ are no detached parts.
 
 If the maze has many islands, the traversing of the whole of it may be a
 matter of considerable difficulty. Here is a method for solving any
-maze, due to M. Trémaux, but it necessitates carefully marking in some
+maze, due to M. Trï¿½maux, but it necessitates carefully marking in some
 way your entrances and exits where the galleries fork. I give a diagram
 of an imaginary maze of a very simple character that will serve our
 purpose just as well as something more complex (Fig. 20). The circles at
@@ -10719,7 +10719,7 @@ have a pencil at hand.
 
 "It can't be done," she declared, after making an attempt on the white
 table-cloth; but Mr. Allgood showed her that it should be written,
-"£13,212."
+"ï¿½13,212."
 
 "Now it is my turn," said Mildred. "I have been waiting to ask you all a
 question. In the Massacre of the Innocents under Herod, a number of poor
@@ -11358,8 +11358,8 @@ is required, and a kind parishioner offers to present a set painted on
 metal plates, but stipulates that only the smallest number of plates
 necessary shall be purchased. The cost of each plate is to be 6d., and
 for the painting of each plate the charges are to be: For one plate,
-1s.; for two plates alike, 11¾d. each; for three plates alike,
-11½d. each, and so on, the charge being one farthing less per plate
+1s.; for two plates alike, 11ï¿½d. each; for three plates alike,
+11ï¿½d. each, and so on, the charge being one farthing less per plate
 for each similarly painted plate. Now, what should be the lowest cost?
 
 Readers will note that they are required to use every legitimate and
@@ -11508,7 +11508,7 @@ and represents a cost of five shillings.
 2.--YOUTHFUL PRECOCITY.
 
 The price of the banana must have been one penny farthing. Thus, 960
-bananas would cost £5, and 480 sixpences would buy 2,304 bananas.
+bananas would cost ï¿½5, and 480 sixpences would buy 2,304 bananas.
 
 
 3.--AT A CATTLE MARKET.
@@ -11520,7 +11520,7 @@ Durrant must have taken 21. There were thus 39 animals altogether.
 4.--THE BEANFEAST PUZZLE.
 
 The cobblers spent 35s., the tailors spent also 35s., the hatters spent
-42s., and the glovers spent 21s. Thus, they spent altogether £6,13s.,
+42s., and the glovers spent 21s. Thus, they spent altogether ï¿½6,13s.,
 while it will be found that the five cobblers spent as much as four
 tailors, twelve tailors as much as nine hatters, and six hatters as much
 as eight glovers.
@@ -11554,7 +11554,7 @@ is six years.
 
 7.--THE WIDOW'S LEGACY.
 
-The widow's share of the legacy must be £205, 2s. 6d. and 10/13 of a
+The widow's share of the legacy must be ï¿½205, 2s. 6d. and 10/13 of a
 penny.
 
 
@@ -11566,14 +11566,14 @@ home.
 
 9.--THE TWO AEROPLANES.
 
-The man must have paid £500 and £750 for the two machines, making
-together £1,250; but as he sold them for only £1,200, he lost £50 by the
+The man must have paid ï¿½500 and ï¿½750 for the two machines, making
+together ï¿½1,250; but as he sold them for only ï¿½1,200, he lost ï¿½50 by the
 transaction.
 
 
 10.--BUYING PRESENTS.
 
-Jorkins had originally £19, 18s. in his pocket, and spent £9, 19s.
+Jorkins had originally ï¿½19, 18s. in his pocket, and spent ï¿½9, 19s.
 
 
 11.--THE CYCLISTS' FEAST.
@@ -11585,25 +11585,25 @@ pay 10s. each.
 
 12.--A QUEER THING IN MONEY.
 
-The answer is as follows: £44,444, 4s. 4d. = 28, and, reduced to pence,
+The answer is as follows: ï¿½44,444, 4s. 4d. = 28, and, reduced to pence,
 10,666,612=28.
 
 It is a curious little coincidence that in the answer 10,666,612 the
-four central figures indicate the only other answer, £66, 6s. 6d.
+four central figures indicate the only other answer, ï¿½66, 6s. 6d.
 
 
 
 13.--A NEW MONEY PUZZLE.
 
 The smallest sum of money, in pounds, shillings, pence, and farthings,
-containing all the nine digits once, and once only, is £2,567, 18s.
-9¾d.
+containing all the nine digits once, and once only, is ï¿½2,567, 18s.
+9ï¿½d.
 
 
 14.--SQUARE MONEY.
 
-The answer is 1½d. and 3d. Added together they make 4½d., and
-1½d. multiplied by 3 is also 4½d.
+The answer is 1ï¿½d. and 3d. Added together they make 4ï¿½d., and
+1ï¿½d. multiplied by 3 is also 4ï¿½d.
 
 
 15.--POCKET MONEY.
@@ -11690,15 +11690,15 @@ the following rates: 105 lbs. at 1 farthing, 35 at 3, 21 at 5, 15 at 7,
 
 The company present on the occasion must have consisted of seven pairs,
 ten single men, and one single lady. Thus, there were twenty-five
-persons in all, and at the prices stated they would pay exactly £5
+persons in all, and at the prices stated they would pay exactly ï¿½5
 together.
 
 
 20.--BEEF AND SAUSAGES.
 
 The lady bought 48 lbs. of beef at 2s., and the same quantity of
-sausages at 1s. 6d., thus spending £8, 8s. Had she bought 42 lbs. of
-beef and 56 lbs. of sausages she would have spent £4, 4s. on each, and
+sausages at 1s. 6d., thus spending ï¿½8, 8s. Had she bought 42 lbs. of
+beef and 56 lbs. of sausages she would have spent ï¿½4, 4s. on each, and
 have obtained 98 lbs. instead of 96 lbs.--a gain in weight of 2 lbs.
 
 
@@ -11727,13 +11727,13 @@ paid in silver coins. We need only use two of these ways. Thus if
 fourteen men each received four four-penny-pieces and one
 threepenny-piece, and five men each received five threepenny-pieces and
 one fourpenny-piece, each man would receive nineteen pence, and there
-would be exactly one hundred coins of a total value of £1, 10s. 1d.
+would be exactly one hundred coins of a total value of ï¿½1, 10s. 1d.
 
 
 24.--A SHOPPING PERPLEXITY.
 
-The first purchase amounted to 1s. 5¾d., the second to 1s. 11½d.,
-and together they make 3s. 5¼d. Not one of these three amounts can be
+The first purchase amounted to 1s. 5ï¿½d., the second to 1s. 11ï¿½d.,
+and together they make 3s. 5ï¿½d. Not one of these three amounts can be
 paid in fewer than six current coins of the realm.
 
 
@@ -11754,16 +11754,16 @@ simple in practice than it looks here.
 
 26.--THE JUNIOR CLERKS' PUZZLE.
 
-Although Snoggs's _reason_ for wishing to take his rise at £2, 10s.
+Although Snoggs's _reason_ for wishing to take his rise at ï¿½2, 10s.
 half-yearly did not concern our puzzle, the _fact_ that he was duping
 his employer into paying him more than was intended did concern it. Many
 readers will be surprised to find that, although Moggs only received
-£350 in five years, the artful Snoggs actually obtained £362, 10s. in
+ï¿½350 in five years, the artful Snoggs actually obtained ï¿½362, 10s. in
 the same time. The rest is simplicity itself. It is evident that if
-Moggs saved £87, 10s. and Snoggs £181, 5s., the latter would be saving
+Moggs saved ï¿½87, 10s. and Snoggs ï¿½181, 5s., the latter would be saving
 twice as great a proportion of his salary as the former (namely,
 one-half as against one-quarter), and the two sums added together make
-£268, 15s.
+ï¿½268, 15s.
 
 
 27.--GIVING CHANGE.
@@ -11840,17 +11840,17 @@ one must draw at least a shilling--there being no blanks.
 31.--DOMESTIC ECONOMY.
 
 Without the hint that I gave, my readers would probably have been
-unanimous in deciding that Mr. Perkins's income must have been £1,710.
+unanimous in deciding that Mr. Perkins's income must have been ï¿½1,710.
 But this is quite wrong. Mrs. Perkins says, "We have spent a third of
 his yearly income in rent," etc., etc.--that is, in two years they have
 spent an amount in rent, etc., equal to one-third of his yearly income.
 Note that she does _not_ say that they have spent _each year_ this sum,
 whatever it is, but that _during the two years_ that amount has been
 spent. The only possible answer, according to the exact reading of her
-words, is, therefore, that his income was £180 per annum. Thus the
-amount spent in two years, during which his income has amounted to £360,
-will be £60 in rent, etc., £90 in domestic expenses, £20 in other ways,
-leaving the balance of £190 in the bank as stated.
+words, is, therefore, that his income was ï¿½180 per annum. Thus the
+amount spent in two years, during which his income has amounted to ï¿½360,
+will be ï¿½60 in rent, etc., ï¿½90 in domestic expenses, ï¿½20 in other ways,
+leaving the balance of ï¿½190 in the bank as stated.
 
 
 32.--THE EXCURSION TICKET PUZZLE.
@@ -11868,16 +11868,16 @@ consider it worth the labour of working out.
 Just to give an idea of what such a solution would involve, I will
 merely say that I find that, dealing only with those sums of money that
 are multiples of threepence, if we only use bronze coins any sum can be
-paid in (n + 1)² ways where n always represents the number of
+paid in (n + 1)ï¿½ ways where n always represents the number of
 pence. If threepenny-pieces are admitted, there are
 
-              2n³ + 15n² + 33n
+              2nï¿½ + 15nï¿½ + 33n
             --------------------- + 1 ways.
                     18
 
 If sixpences are also used there are
 
-          n^{4} + 22n³ + 159n² + 414n + 216
+          n^{4} + 22nï¿½ + 159nï¿½ + 414n + 216
           ---------------------------------
                         216
 
@@ -11910,9 +11910,9 @@ correctness of my figures.
 
 33.--A PUZZLE IN REVERSALS.
 
-(i) £13. (2) £23, 19s. 11d. The words "the number of pounds exceeds that
-of the pence" exclude such sums of money as £2, 16s. 2d. and all sums
-under £1.
+(i) ï¿½13. (2) ï¿½23, 19s. 11d. The words "the number of pounds exceeds that
+of the pence" exclude such sums of money as ï¿½2, 16s. 2d. and all sums
+under ï¿½1.
 
 
 34.--THE GROCER AND DRAPER.
@@ -12024,8 +12024,8 @@ years.
 
 42.--THE FAMILY AGES.
 
-The ages were as follows: Billie, 3½ years; Gertrude, 1¾ year;
-Henrietta, 5¼ years; Charlie, 10½; years; and Janet, 21 years.
+The ages were as follows: Billie, 3ï¿½ years; Gertrude, 1ï¿½ year;
+Henrietta, 5ï¿½ years; Charlie, 10ï¿½; years; and Janet, 21 years.
 
 
 43.--MRS. TIMPKINS'S AGE.
@@ -12045,8 +12045,8 @@ There was a trap for the solver in the words "seven times older than
 little Johnnie." Of course, "seven times older" is equal to eight times
 as old. It is surprising how many people hastily assume that it is the
 same as "seven times as old." Some of the best writers have committed
-this blunder. Probably many of my readers thought that the ages 24½
-and 3½ were correct.
+this blunder. Probably many of my readers thought that the ages 24ï¿½
+and 3ï¿½ were correct.
 
 
 45.--MOTHER AND DAUGHTER.
@@ -12091,24 +12091,24 @@ will take nine and fourteen respectively, and that they will have
 together taken thirty-five nuts. As 35 is contained in 770 twenty-two
 times, we have merely to multiply 12, 9, and 14 by 22 to discover that
 Herbert's share was 264, Robert's 198, and Christopher's 308. Then, as
-the total of their ages is 17½ years or half the sum of 12, 9, and 14,
-their respective ages must be 6, 4½, and 7 years.
+the total of their ages is 17ï¿½ years or half the sum of 12, 9, and 14,
+their respective ages must be 6, 4ï¿½, and 7 years.
 
 
 51.--HOW OLD WAS MARY?
 
 The age of Mary to that of Ann must be as 5 to 3. And as the sum of
-their ages was 44, Mary was 27½ and Ann 16½. One is exactly 11 years
+their ages was 44, Mary was 27ï¿½ and Ann 16ï¿½. One is exactly 11 years
 older than the other. I will now insert in brackets in the original
-statement the various ages specified: "Mary is (27½) twice as old as Ann
-was (13¾) when Mary was half as old (24¾) as Ann will be (49½) when Ann
-is three times as old (49½) as Mary was (16½) when Mary was (16½) three
-times as old as Ann (5½)." Now, check this backwards. When Mary was
-three times as old as Ann, Mary was 16½ and Ann 5½ (11 years younger).
-Then we get 49½ for the age Ann will be when she is three times as old
-as Mary was then. When Mary was half this she was 24¾. And at that time
-Ann must have been 13¾ (11 years younger). Therefore Mary is now twice
-as old--27½, and Ann 11 years younger--16½.
+statement the various ages specified: "Mary is (27ï¿½) twice as old as Ann
+was (13ï¿½) when Mary was half as old (24ï¿½) as Ann will be (49ï¿½) when Ann
+is three times as old (49ï¿½) as Mary was (16ï¿½) when Mary was (16ï¿½) three
+times as old as Ann (5ï¿½)." Now, check this backwards. When Mary was
+three times as old as Ann, Mary was 16ï¿½ and Ann 5ï¿½ (11 years younger).
+Then we get 49ï¿½ for the age Ann will be when she is three times as old
+as Mary was then. When Mary was half this she was 24ï¿½. And at that time
+Ann must have been 13ï¿½ (11 years younger). Therefore Mary is now twice
+as old--27ï¿½, and Ann 11 years younger--16ï¿½.
 
 
 52.--QUEER RELATIONSHIPS.
@@ -12362,7 +12362,7 @@ equals the square of 20.
 
 70.--DRAWING HER PENSION.
 
-The distance must be 6¾ miles.
+The distance must be 6ï¿½ miles.
 
 
 71.--SIR EDWYN DE TUDOR.
@@ -12406,7 +12406,7 @@ fifteen-sixteenths--a nice little recreation after a day's work.
 75.--THE PASSENGER'S FARE.
 
 Mr. Tompkins should have paid fifteen shillings as his correct share of
-the motor-car fare. He only shared half the distance travelled for £3,
+the motor-car fare. He only shared half the distance travelled for ï¿½3,
 and therefore should pay half of thirty shillings, or fifteen shillings.
 
 
@@ -12472,12 +12472,12 @@ dropping the 8.
 
 There are nine solutions to this puzzle, as follows, and no more:--
 
-    12 × 483 = 5,796     27 × 198 = 5,346
-    42 × 138 = 5,796     39 × 186 = 7,254
-    18 × 297 = 5,346     48 × 159 = 7,632
-           28 ×   157 = 4,396
-            4 × 1,738 = 6,952
-            4 × 1,963 = 7,852
+    12 ï¿½ 483 = 5,796     27 ï¿½ 198 = 5,346
+    42 ï¿½ 138 = 5,796     39 ï¿½ 186 = 7,254
+    18 ï¿½ 297 = 5,346     48 ï¿½ 159 = 7,632
+           28 ï¿½   157 = 4,396
+            4 ï¿½ 1,738 = 6,952
+            4 ï¿½ 1,963 = 7,852
 
 The seventh answer is the one that is most likely to be overlooked by
 solvers of the puzzle.
@@ -12513,7 +12513,7 @@ which is just double the other; and in doing this we must, of course,
 try to make the smaller number as low as possible. Of course the lowest
 number we could get would be 3,045; but this will not work, neither will
 3,405, 3,45O, etc., and it may be ascertained that 3,485 is the lowest
-possible. One of the required answers is 3,485 × 2 = 6,970, and 6,970 ×
+possible. One of the required answers is 3,485 ï¿½ 2 = 6,970, and 6,970 ï¿½
 1 = 6,970.
 
 The other part of the puzzle (finding the pair with the highest product)
@@ -12522,14 +12522,14 @@ discover whether we should let the multiplier consist of one or of two
 figures, though it is clear that we must keep, so far as we can, the
 largest figures to the left in both multiplier and multiplicand. It will
 be seen that by the following arrangement so high a number as 58,560 may
-be obtained. Thus, 915 × 64 = 58,560, and 732 × 80 = 58,560.
+be obtained. Thus, 915 ï¿½ 64 = 58,560, and 732 ï¿½ 80 = 58,560.
 
 
 83.--DIGITAL MULTIPLICATION.
 
 The solution that gives the smallest possible sum of digits in the
-common product is 23 × 174 = 58 × 69 = 4,002, and the solution that
-gives the largest possible sum of digits, 9×654 =18×327=5,886. In the
+common product is 23 ï¿½ 174 = 58 ï¿½ 69 = 4,002, and the solution that
+gives the largest possible sum of digits, 9ï¿½654 =18ï¿½327=5,886. In the
 first case the digits sum to 6 and in the second case to 27. There is no
 way of obtaining the solution but by actual trial.
 
@@ -12561,31 +12561,31 @@ four digits only six different solutions.
 These cases have all been given. With five digits there are just
 twenty-two solutions, as follows:--
 
-       3 × 4128 = 12384
-       3 × 4281 = 12843
-       3 × 7125 = 21375
-       3 × 7251 = 21753
-    2541 × 6    = 15246
-     651 × 24   = 15624
-     678 × 42   = 28476
-     246 × 51   = 12546
-      57 × 834  = 47538
-      75 × 231  = 17325
-     624 × 78   = 48672
-     435 × 87   = 37845
+       3 ï¿½ 4128 = 12384
+       3 ï¿½ 4281 = 12843
+       3 ï¿½ 7125 = 21375
+       3 ï¿½ 7251 = 21753
+    2541 ï¿½ 6    = 15246
+     651 ï¿½ 24   = 15624
+     678 ï¿½ 42   = 28476
+     246 ï¿½ 51   = 12546
+      57 ï¿½ 834  = 47538
+      75 ï¿½ 231  = 17325
+     624 ï¿½ 78   = 48672
+     435 ï¿½ 87   = 37845
            ------
-       9 × 7461 = 67149
-      72 × 936  = 67392
+       9 ï¿½ 7461 = 67149
+      72 ï¿½ 936  = 67392
            ------
-       2 × 8714 = 17428
-       2 × 8741 = 17482
-      65 × 281  = 18265
-      65 × 983  = 63985
+       2 ï¿½ 8714 = 17428
+       2 ï¿½ 8741 = 17482
+      65 ï¿½ 281  = 18265
+      65 ï¿½ 983  = 63985
            ------
-    4973 × 8    = 39784
-    6521 × 8    = 52168
-      14 × 926  = 12964
-      86 × 251  = 21586
+    4973 ï¿½ 8    = 39784
+    6521 ï¿½ 8    = 52168
+      14 ï¿½ 926  = 12964
+      86 ï¿½ 251  = 21586
 
 Now, if we took every possible combination and tested it by
 multiplication, we should need to make no fewer than 30,240 trials, or,
@@ -12634,11 +12634,11 @@ multiplications. We see at a glance that, in order to get a five-figure
 product, either the 8 or the 4 must be the first figure to the left. But
 unless the 2 is preceded on the right by the 8, it will produce when
 multiplied either a 6 or a 7, which must not occur. We are, therefore,
-reduced at once to the two cases, 3 × 4,128 and 3 x 4,281, both of which
+reduced at once to the two cases, 3 ï¿½ 4,128 and 3 x 4,281, both of which
 give correct solutions. Suppose next that we are trying the two-figure
 factor, 21. Here we see that if the number to be multiplied is under 500
 the product will either have only four figures or begin with 10.
-Therefore we have only to examine the cases 21 × 843 and 21 × 834. But
+Therefore we have only to examine the cases 21 ï¿½ 843 and 21 ï¿½ 834. But
 we know that the first figure will be repeated, and that the second
 figure will be twice the first figure added to the second. Consequently,
 as twice 3 added to 4 produces a nought in our product, the first case
@@ -12733,7 +12733,7 @@ solutions.
 
 89.--ADDING THE DIGITS.
 
-The smallest possible sum of money is £1, 8s. 9¾d., the digits of which
+The smallest possible sum of money is ï¿½1, 8s. 9ï¿½d., the digits of which
 add to 25.
 
 
@@ -12906,19 +12906,19 @@ interesting specimens, the first being the solution usually published,
 and the last the best solution that I know.
 
                                               Signs. Strokes.
-    1 + 2 + 3 + 4 + 5 + 6 + 7 + (8 × 9) = 100 ( 9       18)
+    1 + 2 + 3 + 4 + 5 + 6 + 7 + (8 ï¿½ 9) = 100 ( 9       18)
 
-    - (1 × 2) - 3 - 4 - 5 + (6 × 7) + (8 × 9)
+    - (1 ï¿½ 2) - 3 - 4 - 5 + (6 ï¿½ 7) + (8 ï¿½ 9)
         = 100                                 (12       20)
 
-    1 + (2 × 3) + (4 × 5) - 6 + 7 + (8 × 9)
+    1 + (2 ï¿½ 3) + (4 ï¿½ 5) - 6 + 7 + (8 ï¿½ 9)
         = 100                                 (11       21)
 
     (1 + 2 - 3 - 4)(5 - 6 - 7 - 8 - 9) = 100  ( 9       12)
 
-    1 + (2 × 3) + 4 + 5 + 67 + 8 + 9 =100     (8        16)
+    1 + (2 ï¿½ 3) + 4 + 5 + 67 + 8 + 9 =100     (8        16)
 
-    (1 × 2) + 34 + 56 + 7 - 8 + 9 = 100       (7        13)
+    (1 ï¿½ 2) + 34 + 56 + 7 - 8 + 9 = 100       (7        13)
 
     12 + 3 - 4 + 5 + 67 + 8 + 9 = 100         (6        11)
 
@@ -12941,7 +12941,7 @@ The way to write four sevens with simple arithmetical signs so that they
 represent 100 is as follows:--
 
      7    7
-    -- × -- = 100.
+    -- ï¿½ -- = 100.
     .7   .7
 
 Of course the fraction, 7 over decimal 7, equals 7 divided by 7/10,
@@ -12991,11 +12991,11 @@ answer 16,798,320.
 The following general solution for any number of digits will doubtless
 interest readers. Let n represent number of digits, then 5 (10^n - 1) 8!
 divided by (9 - n)! equals the required sum. Note that 0! equals 1. This
-may be reduced to the following practical rule: Multiply together 4 × 7
-× 6 × 5 ... to (n - 1) factors; now add (n + 1) ciphers to the right,
+may be reduced to the following practical rule: Multiply together 4 ï¿½ 7
+ï¿½ 6 ï¿½ 5 ... to (n - 1) factors; now add (n + 1) ciphers to the right,
 and from this result subtract the same set of figures with a single
-cipher to the right. Thus for n = 4 (as in the case last mentioned), 4 ×
-7 × 6 = 168. Therefore 16,800,000 less 1,680 gives us 16,798,320 in
+cipher to the right. Thus for n = 4 (as in the case last mentioned), 4 ï¿½
+7 ï¿½ 6 = 168. Therefore 16,800,000 less 1,680 gives us 16,798,320 in
 another way.
 
 
@@ -13026,9 +13026,9 @@ bows of any child.
 
 99.--THE THIRTY-THREE PEARLS.
 
-The value of the large central pearl must have been £3,000. The pearl at
-one end (from which they increased in value by £100) was £1,400; the
-pearl at the other end, £600.
+The value of the large central pearl must have been ï¿½3,000. The pearl at
+one end (from which they increased in value by ï¿½100) was ï¿½1,400; the
+pearl at the other end, ï¿½600.
 
 
 100.--THE LABOURER'S PUZZLE.
@@ -13172,18 +13172,18 @@ of the torn label n. Then, if we add 1 to each of the exponents of the
 prime factors (other than 3) of 10^n - 1 (1 being regarded as a factor
 with the constant exponent, 1), their product will be the number of
 solutions. Thus, for a label of six figures, n = 3. The factors of 10^n
-- 1 are 1¹ × 37¹ (not considering the 3³), and the product of 2 × 2 =
+- 1 are 1ï¿½ ï¿½ 37ï¿½ (not considering the 3ï¿½), and the product of 2 ï¿½ 2 =
 4, the number of solutions. This always includes the special cases 98 -
 01, 00 - 01, 998 - 01, 000 - 001, etc. The solutions are obtained as
-follows:--Factorize 10³ - 1 in all possible ways, always keeping the
-powers of 3 together, thus, 37 × 27, 999 × 1. Then solve the equation
-37x = 27y + 1. Here x = 19 and y = 26. Therefore, 19 × 37 = 703, the
+follows:--Factorize 10ï¿½ - 1 in all possible ways, always keeping the
+powers of 3 together, thus, 37 ï¿½ 27, 999 ï¿½ 1. Then solve the equation
+37x = 27y + 1. Here x = 19 and y = 26. Therefore, 19 ï¿½ 37 = 703, the
 square of which gives one label, 494,209. A complementary solution
 (through 27x = 37x + 1) can at once be found by 10^n - 703 = 297, the
 square of which gives 088,209 for second label. (These non-significant
 noughts to the left must be included, though they lead to peculiar cases
-like 00238 - 04641 = 4879², where 0238 - 4641 would not work.) The
-special case 999 × 1 we can write at once 998,001, according to the law
+like 00238 - 04641 = 4879ï¿½, where 0238 - 4641 would not work.) The
+special case 999 ï¿½ 1 we can write at once 998,001, according to the law
 shown above, by adding nines on one half and noughts on the other, and
 its complementary will be 1 preceded by five noughts, or 000001. Thus we
 get the squares of 999 and 1. These are the four solutions.
@@ -13215,15 +13215,15 @@ Sundays and with fifty-three Sundays, and a leap-year with fifty-two and
 fifty-three Sundays respectively. Here are the lowest possible amounts
 in each case:--
 
-    313  weekdays, 52 Sundays               £112,055
+    313  weekdays, 52 Sundays               ï¿½112,055
     312  weekdays, 53 Sundays                 19,345
     314  weekdays, 52 Sundays  No solution possible.
-    313  weekdays, 53 Sundays                £69,174
+    313  weekdays, 53 Sundays                ï¿½69,174
 
 The lowest possible amount, and therefore the correct answer, is
-£19,345, distributed in an ordinary year that began on a Sunday. The
-last year of this kind was 1911. He would have paid £53 on every day of
-the year, or £62 on every weekday, with £1 left over, as required, in
+ï¿½19,345, distributed in an ordinary year that began on a Sunday. The
+last year of this kind was 1911. He would have paid ï¿½53 on every day of
+the year, or ï¿½62 on every weekday, with ï¿½1 left over, as required, in
 the latter event.
 
 
@@ -13276,13 +13276,13 @@ between squares of two consecutive numbers is always twice the smaller
 number plus 1, and that the difference between the squares of any two
 numbers can always be expressed as the difference of the numbers
 multiplied by their sum. Thus the square of 5 (25) less the square of 4
-(16) equals (2 × 4) + 1, or 9; also, the square of 7 (49) less the
-square of 3 (9) equals (7 + 3) × (7 - 3), or 40.
+(16) equals (2 ï¿½ 4) + 1, or 9; also, the square of 7 (49) less the
+square of 3 (9) equals (7 + 3) ï¿½ (7 - 3), or 40.
 
 Now, the number 192, referred to above, may be divided into five
-different pairs of even factors: 2 × 96, 4 × 48, 6 × 32, 8 × 24, and 12
-× 16, and these divided by 2 give us, 1 × 48, 2 × 24, 3 × 16, 4 × 12,
-and 6 × 8. The difference and sum respectively of each of these pairs in
+different pairs of even factors: 2 ï¿½ 96, 4 ï¿½ 48, 6 ï¿½ 32, 8 ï¿½ 24, and 12
+ï¿½ 16, and these divided by 2 give us, 1 ï¿½ 48, 2 ï¿½ 24, 3 ï¿½ 16, 4 ï¿½ 12,
+and 6 ï¿½ 8. The difference and sum respectively of each of these pairs in
 turn produce 47, 49; 22, 26; 13, 19; 8, 16; and 2, 14. These are the
 required numbers, four of which are already placed. The six numbers that
 have to be added may be placed in just six different ways, one of which
@@ -13372,7 +13372,7 @@ same order.
 
 Subtract every number in turn from every other number, and we get 358
 (twice), 716, 1,611, 1,253, and 895. Now, we see at a glance that, as
-358 equals 2 × 179, the only number that can divide in every case
+358 equals 2 ï¿½ 179, the only number that can divide in every case
 without a remainder will be 179. On trial we find that this is such a
 divisor. Therefore, 179 is the divisor we want, which always leaves a
 remainder 164 in the case of the original numbers given.
@@ -13411,8 +13411,8 @@ propounded the question nor first solved it! It was issued as a
 challenge by Fermat to the English mathematicians of his day. It is
 readily solved by the use of continued fractions.
 
-Next to 61, the most difficult number under 100 is 97, where 97 ×
-6,377,352² + 1 = a square.
+Next to 61, the most difficult number under 100 is 97, where 97 ï¿½
+6,377,352ï¿½ + 1 = a square.
 
 The reason why I assumed that there must be something wrong with the
 figures in the chronicle is that we can confidently say that Harold's
@@ -13433,7 +13433,7 @@ less than the denominator. As a matter of fact, the height of the larger
 cube must be 8/7 ft., and of the smaller 3/7 ft., if we are to have the
 answer in the smallest possible figures. Here the lineal measurement is
 11/7 ft.--that is, 1+4/7 ft. What are the cubic contents of the two
-cubes? First 8/7 × 3/7 × 8/7 = 512/343, and secondly 3/7 × 3/7 × 3/7 =
+cubes? First 8/7 ï¿½ 3/7 ï¿½ 8/7 = 512/343, and secondly 3/7 ï¿½ 3/7 ï¿½ 3/7 =
 27/343. Add these together and the result is 539/343, which reduces to
 11/7 or 1+4/7 ft. We thus see that the answers in cubic feet and lineal
 feet are precisely the same.
@@ -13443,7 +13443,7 @@ Alexandria, who wrote about the beginning of the fourth century. These
 fractional numbers appear in triads, and are obtained from three
 generators, a, b, c, where a is the largest and c the smallest.
 
-Then ab + c² = denominator, and a² - c², b² - c², and a² - b² will be
+Then ab + cï¿½ = denominator, and aï¿½ - cï¿½, bï¿½ - cï¿½, and aï¿½ - bï¿½ will be
 the three numerators. Thus, using the generators 3, 2, 1, we get 8/7,
 3/7, 5/7 and we can pair the first and second, as in the above
 solution, or the first and third for a second solution. The
@@ -13577,12 +13577,12 @@ in.
 The puzzle amounts to this. Find the smallest square number that may be
 expressed as the sum of more than three consecutive cubes, the cube 1
 being barred. As more than three heaps were to be supplied, this
-condition shuts out the otherwise smallest answer, 23³ + 24³ + 25³ =
-204². But it admits the answer, 25³ + 26³ + 27³ + 28³ + 29³ = 315². The
+condition shuts out the otherwise smallest answer, 23ï¿½ + 24ï¿½ + 25ï¿½ =
+204ï¿½. But it admits the answer, 25ï¿½ + 26ï¿½ + 27ï¿½ + 28ï¿½ + 29ï¿½ = 315ï¿½. The
 correct answer, however, requires more heaps, but a smaller aggregate
-number of blocks. Here it is: 14³ + 15³ + ... up to 25³ inclusive, or
+number of blocks. Here it is: 14ï¿½ + 15ï¿½ + ... up to 25ï¿½ inclusive, or
 twelve heaps in all, which, added together, make 97,344 blocks of stone
-that may be laid out to form a square 312 × 312. I will just remark that
+that may be laid out to form a square 312 ï¿½ 312. I will just remark that
 one key to the solution lies in what are called triangular numbers. (See
 pp. 13, 25, and 166.)
 
@@ -13599,21 +13599,21 @@ sum of two squares in any way whatever.
 In order that a number may be expressed as the sum of two squares in
 several different ways, it is necessary that it shall be a composite
 number containing a certain number of primes of our first form. Thus, 5
-or 13 alone can only be so expressed in one way; but 65, (5 × 13), can
-be expressed in two ways, 1,105, (5 × 13 × 17), in four ways, 32,045, (5
-× 13 × 17 × 29), in eight ways. We thus get double as many ways for
+or 13 alone can only be so expressed in one way; but 65, (5 ï¿½ 13), can
+be expressed in two ways, 1,105, (5 ï¿½ 13 ï¿½ 17), in four ways, 32,045, (5
+ï¿½ 13 ï¿½ 17 ï¿½ 29), in eight ways. We thus get double as many ways for
 every new factor of this form that we introduce. Note, however, that I
 say _new_ factor, for the _repetition_ of factors is subject to another
-law. We cannot express 25, (5 × 5), in two ways, but only in one; yet
-125, (5 × 5 × 5), can be given in two ways, and so can 625, (5 × 5 × 5 ×
+law. We cannot express 25, (5 ï¿½ 5), in two ways, but only in one; yet
+125, (5 ï¿½ 5 ï¿½ 5), can be given in two ways, and so can 625, (5 ï¿½ 5 ï¿½ 5 ï¿½
 5); while if we take in yet another 5 we can express the number as the
 sum of two squares in three different ways.
 
 If a prime of the second form gets into your composite number, then that
-number cannot be the sum of two squares. Thus 15, (3 × 5), will not
-work, nor will 135, (3 × 3 × 3 × 5); but if we take in an even number of
+number cannot be the sum of two squares. Thus 15, (3 ï¿½ 5), will not
+work, nor will 135, (3 ï¿½ 3 ï¿½ 3 ï¿½ 5); but if we take in an even number of
 3's it will work, because these 3's will themselves form a square
-number, but you will only get one solution. Thus, 45, (3 × 3 × 5, or 9 ×
+number, but you will only get one solution. Thus, 45, (3 ï¿½ 3 ï¿½ 5, or 9 ï¿½
 5) = 36 + 9. Similarly, the factor 2 may always occur, or any power of
 2, such as 4, 8, 16, 32; but its introduction or omission will never
 affect the number of your solutions, except in such a case as 50, where
@@ -13624,14 +13624,14 @@ Now, directly a number is decomposed into its prime factors, it is
 possible to tell at a glance whether or not it can be split into two
 squares; and if it can be, the process of discovery in how many ways is
 so simple that it can be done in the head without any effort. The number
-I gave was 130. I at once saw that this was 2 × 5 × 13, and consequently
+I gave was 130. I at once saw that this was 2 ï¿½ 5 ï¿½ 13, and consequently
 that, as 65 can be expressed in two ways (64 + 1 and 49 + 16), 130 can
 also be expressed in two ways, the factor 2 not affecting the question.
 
 The smallest number that can be expressed as the sum of two squares in
 twelve different ways is 160,225, and this is therefore the smallest
 army that would answer the Sultan's purpose. The number is composed of
-the factors 5 × 5 × 13 × 17 × 29, each of which is of the required form.
+the factors 5 ï¿½ 5 ï¿½ 13 ï¿½ 17 ï¿½ 29, each of which is of the required form.
 If they were all different factors, there would be sixteen ways; but as
 one of the factors is repeated, there are just twelve ways. Here are the
 sides of the twelve pairs of squares: (400 and 15), (399 and 32), (393
@@ -13655,24 +13655,24 @@ Every triangular number is such that if we multiply it by 8 and add 1
 the result is an odd square number. For example, multiply 1, 3, 6, 10,
 15 respectively by 8 and add 1, and we get 9, 25, 49, 81, 121, which are
 the squares of the odd numbers 3, 5, 7, 9, 11. Therefore in every case
-where 8x² + 1 = a square number, x² is also a triangular. This point
+where 8xï¿½ + 1 = a square number, xï¿½ is also a triangular. This point
 is dealt with in our puzzle, "The Battle of Hastings." I will now merely
 show again how, when the first solution is found, the others may be
 discovered without any difficulty. First of all, here are the figures:--
 
-    8 ×     1² + 1 =      3²
-    8 ×     6² + 1 =     17²
-    8 ×    35² + 1 =     99²
-    8 ×   204² + 1 =    577²
-    8 ×  1189² + 1 =   3363²
-    8 ×  6930² + 1 =  19601²
-    8 × 40391² + 1 = 114243²
+    8 ï¿½     1ï¿½ + 1 =      3ï¿½
+    8 ï¿½     6ï¿½ + 1 =     17ï¿½
+    8 ï¿½    35ï¿½ + 1 =     99ï¿½
+    8 ï¿½   204ï¿½ + 1 =    577ï¿½
+    8 ï¿½  1189ï¿½ + 1 =   3363ï¿½
+    8 ï¿½  6930ï¿½ + 1 =  19601ï¿½
+    8 ï¿½ 40391ï¿½ + 1 = 114243ï¿½
 
 The successive pairs of numbers are found in this way:--
 
-    (1 × 3) +  (3 × 1)  =   6    (8 × 1) +  (3 × 3) =  17
-    (1 × 17) + (3 × 6)  =  35    (8 × 6) + (3 × 17) =  99
-    (1 × 99) + (3 × 35) = 204   (8 × 35) + (3 × 99) = 577
+    (1 ï¿½ 3) +  (3 ï¿½ 1)  =   6    (8 ï¿½ 1) +  (3 ï¿½ 3) =  17
+    (1 ï¿½ 17) + (3 ï¿½ 6)  =  35    (8 ï¿½ 6) + (3 ï¿½ 17) =  99
+    (1 ï¿½ 99) + (3 ï¿½ 35) = 204   (8 ï¿½ 35) + (3 ï¿½ 99) = 577
 
 and so on. Look for the numbers in the table above, and the method will
 explain itself.
@@ -13733,8 +13733,8 @@ check the results if they so wish.
 I should perhaps explain that the arrangements given in the last two
 columns are not the only ways of forming two and three triangles. There
 are others, but one set of figures will fully serve our purpose. We thus
-see that before Mrs. McAllister can claim her sixth £5 present she must
-save the respectable sum of £1,631,432,881.
+see that before Mrs. McAllister can claim her sixth ï¿½5 present she must
+save the respectable sum of ï¿½1,631,432,881.
 
 
 138.--THE ARTILLERYMEN'S DILEMMA.
@@ -13777,9 +13777,9 @@ is a difficult one, and the second answer, if it exists (which I do not
 believe), certainly runs into big figures.
 
 For the benefit of more advanced mathematicians I will add that the
-general expression for square pyramid numbers is (2n³ + 3n² + n)/6.
+general expression for square pyramid numbers is (2nï¿½ + 3nï¿½ + n)/6.
 For this expression to be also a square number (the special case of 1
-excepted) it is necessary that n = p² - 1 = 6t², where 2p² - 1 = q²
+excepted) it is necessary that n = pï¿½ - 1 = 6tï¿½, where 2pï¿½ - 1 = qï¿½
 (the "Pellian Equation"). In the case of our solution above, n = 24, p =
 5, t = 2, q = 7.
 
@@ -13796,7 +13796,7 @@ of 31. Here 1, 9, and 31 represent the number of pigs bought and the
 number of shillings per pig paid by each woman, and 8, 12, and 32 the
 same in the case of their respective husbands. From the further
 information given as to their purchases, we can now pair them off as
-follows: Cornelius and Gurtrün bought 8 and 1; Elas and Katrün bought 12
+follows: Cornelius and Gurtrï¿½n bought 8 and 1; Elas and Katrï¿½n bought 12
 and 9; Hendrick and Anna bought 32 and 31. And these pairs represent
 correctly the three married couples.
 
@@ -13806,18 +13806,18 @@ between two squares, and how we are to find the actual squares. Any
 integer except 1, 4, and twice any odd number, may be expressed as the
 difference of two integral squares in as many ways as it can be split up
 into pairs of factors, counting 1 as a factor. Suppose the number to be
-5,940. The factors are 2².3³.5.11. Here the exponents are 2, 3, 1, 1.
+5,940. The factors are 2ï¿½.3ï¿½.5.11. Here the exponents are 2, 3, 1, 1.
 Always deduct 1 from the exponents of 2 and add 1 to all the other
 exponents; then we get 1, 4, 2, 2, and half the product of these four
 numbers will be the required number of ways in which 5,940 may be the
 difference of two squares--that is, 8. To find these eight squares, as
 it is an _even_ number, we first divide by 4 and get 1485, the eight
-pairs of factors of which are 1 × 1485, 3 × 495, 5 × 297, 9 × 165, 11 ×
-135, 15 × 99, 27 × 55, and 33 × 45. The sum and difference of any one of
+pairs of factors of which are 1 ï¿½ 1485, 3 ï¿½ 495, 5 ï¿½ 297, 9 ï¿½ 165, 11 ï¿½
+135, 15 ï¿½ 99, 27 ï¿½ 55, and 33 ï¿½ 45. The sum and difference of any one of
 these pairs will give the required numbers. Thus, the square of 1,486
 less the square of 1,484 is 5,940, the square of 498 less the square of
 492 is the same, and so on. In the case of 63 above, the number is
-_odd_; so we factorize at once, 1 × 63, 3 × 21, 7 × 9. Then we find that
+_odd_; so we factorize at once, 1 ï¿½ 63, 3 ï¿½ 21, 7 ï¿½ 9. Then we find that
 _half_ the sum and difference will give us the numbers 32 and 31, 12 and
 9, and 8 and 1, as shown in the solution to the puzzle.
 
@@ -13829,7 +13829,7 @@ expressed as the difference of two squares in one way, and in one way
 only. If a number can be expressed as the difference of two squares in
 more than one way, it is composite; and having so expressed it, we may
 at once obtain the factors, as we have seen. Fermat showed in a letter
-to Mersenne or Frénicle, in 1643, how we may discover whether a number
+to Mersenne or Frï¿½nicle, in 1643, how we may discover whether a number
 may be expressed as the difference of two squares in more than one way,
 or proved to be a prime. But the method, when dealing with large
 numbers, is necessarily tedious, though in practice it may be
@@ -13936,17 +13936,17 @@ a square, as shown in Fig. 4.
 [Illustration
 
     +===========+===========+-
-    | ·         |         · : \
-    |   ·       |       ·   :   \
-    |     ·     |     ·     :     \
-    |       ·   |   ·       :       \
-    |         · | ·         :         \
+    | ï¿½         |         ï¿½ : \
+    |   ï¿½       |       ï¿½   :   \
+    |     ï¿½     |     ï¿½     :     \
+    |       ï¿½   |   ï¿½       :       \
+    |         ï¿½ | ï¿½         :         \
     +-----------+===========+===========+
-    |         / : ·         |         · : \
-    |       /   :   ·       |       ·   :   \
-    |     /     :     ·     |     ·     :     \
-    |   /       :       ·   |   ·       :       \
-    | /         :         · | ·         :         \
+    |         / : ï¿½         |         ï¿½ : \
+    |       /   :   ï¿½       |       ï¿½   :   \
+    |     /     :     ï¿½     |     ï¿½     :     \
+    |   /       :       ï¿½   |   ï¿½       :       \
+    | /         :         ï¿½ | ï¿½         :         \
     +===========+===========+===========+===========+
 
 ]
@@ -14156,13 +14156,13 @@ diagonally.
 The illustration shows how to cut the four pieces and form with them a
 square. First find the side of the square (the mean proportional between
 the length and height of the rectangle), and the method is obvious. If
-our strip is exactly in the proportions 9 × 1, or 16 × 1, or 25 × 1, we
+our strip is exactly in the proportions 9 ï¿½ 1, or 16 ï¿½ 1, or 25 ï¿½ 1, we
 can clearly cut it in 3, 4, or 5 rectangular pieces respectively to form
 a square. Excluding these special cases, the general law is that for a
-strip in length more than n² times the breadth, and not more than (n+1)²
+strip in length more than nï¿½ times the breadth, and not more than (n+1)ï¿½
 times the breadth, it may be cut in n+2 pieces to form a square, and
 there will be n-1 rectangular pieces like piece 4 in the diagram. Thus,
-for example, with a strip 24 × 1, the length is more than 16 and less
+for example, with a strip 24 ï¿½ 1, the length is more than 16 and less
 than 25 times the breadth. Therefore it can be done in 6 pieces (n here
 being 4), 3 of which will be rectangular. In the case where n equals 1,
 the rectangle disappears and we get a solution in three pieces. Within
@@ -14176,12 +14176,12 @@ purely geometrical.
 
 As I gave full measurements of the mutilated rug, it was quite an easy
 matter to find the precise dimensions for the square. The two pieces cut
-off would, if placed together, make an oblong piece 12 × 6, giving an
+off would, if placed together, make an oblong piece 12 ï¿½ 6, giving an
 area of 72 (inches or yards, as we please), and as the original complete
-rug measured 36 × 27, it had an area of 972. If, therefore, we deduct
+rug measured 36 ï¿½ 27, it had an area of 972. If, therefore, we deduct
 the pieces that have been cut away, we find that our new rug will
 contain 972 less 72, or 900; and as 900 is the square of 30, we know
-that the new rug must measure 30 × 30 to be a perfect square. This is a
+that the new rug must measure 30 ï¿½ 30 to be a perfect square. This is a
 great help towards the solution, because we may safely conclude that the
 two horizontal sides measuring 30 each may be left intact.
 
@@ -14222,7 +14222,7 @@ approximation.
 
 [Illustration]
 
-Another correspondent made the side of his square 1¼ of the side of
+Another correspondent made the side of his square 1ï¿½ of the side of
 the pentagon. As a matter of fact, the ratio is irrational. I calculate
 that if the side of the pentagon is 1--inch, foot, or anything else--the
 side of the square of equal area is 1.3117 nearly, or say roughly
@@ -14349,7 +14349,7 @@ be half of Yin or Yan.
     |   |   |  :|   |   |:  |   |  :|   |  ||:  |   |   |
     |   |   |  :|   |   |:  |   |  :|   |  ||:  |   |   |
     +---+---+---+---+---+---+---+---+---+---+---+---+---+
-    |¯¯¯|¯¯¯|¯¯:|¯¯¯|¯¯¯|:¯¯|¯¯¯|¯¯:|¯¯¯|¯¯||:¯¯|¯¯¯|¯¯¯|
+    |ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½:|ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|:ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½:|ï¿½ï¿½ï¿½|ï¿½ï¿½||:ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|
     |   |   |  :|   |   |:  |   |  :|   |  ||:  |   |   |
     +---+---+---+---+---+---+---+---+---+---+---+---+---+
     |   |   |  :|   |   |:  |   |  :|   |  ||:  |   |   |
@@ -14364,7 +14364,7 @@ be half of Yin or Yan.
     |   |   |  :|   |   |:  |   |  :||  |   |:  |   |   |
     |   |   |  :|   |   |:  |   |  :||  |   |:  | A |   |
     +---+---+---+---+---+---+---+---+---+---+---+---+---+
-    |¯¯¯|¯¯¯|¯¯:|¯¯¯|¯¯¯|:¯¯|¯¯¯|¯¯:||¯¯|¯¯¯|:¯¯|¯¯¯|¯¯¯|
+    |ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½:|ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|:ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½:||ï¿½ï¿½|ï¿½ï¿½ï¿½|:ï¿½ï¿½|ï¿½ï¿½ï¿½|ï¿½ï¿½ï¿½|
     |   |   |  :|   |   |:  |   |  :||  |   |:  |   |   |
     +---+---+---+---+---+---+---+---+---+---+---+---+---+
     |   |   |  :|   |   |:  |   |  :||  |   |:  |   |   |
@@ -14386,29 +14386,29 @@ the assumption that it is 13n by 13n. The value of n we can afterwards
 determine. Divide the square as shown (where the dotted lines indicate
 the original markings) into 169 squares. As 169 is the sum of the two
 squares 144 and 25, we will proceed to divide the veneer into two
-squares, measuring respectively 12 × 12 and 5 × 5; and as we know that
+squares, measuring respectively 12 ï¿½ 12 and 5 ï¿½ 5; and as we know that
 two squares may be formed from one square by dissection in four pieces,
 we seek a solution in this number. The dark lines in the diagram show
-where the cuts are to be made. The square 5 × 5 is cut out whole, and
+where the cuts are to be made. The square 5 ï¿½ 5 is cut out whole, and
 the larger square is formed from the remaining three pieces, B, C, and
 D, which the reader can easily fit together.
 
 Now, n is clearly 5/13 of an inch. Consequently our larger square must
-be 60/13 in. × 60/13 in., and our smaller square 25/13 in. × 25/13 in.
+be 60/13 in. ï¿½ 60/13 in., and our smaller square 25/13 in. ï¿½ 25/13 in.
 The square of 60/13 added to the square of 25/13 is 25. The square is
 thus divided into as few as four pieces that form two squares of known
 dimensions, and all the sixteen nails are avoided.
 
 Here is a general formula for finding two squares whose sum shall equal
-a given square, say a². In the case of the solution of our puzzle p = 3,
+a given square, say aï¿½. In the case of the solution of our puzzle p = 3,
 q = 2, and a = 5.
 
                          ________________________
-       2pqa           \/ a²( p² + q²)² - (2pqa)²
+       2pqa           \/ aï¿½( pï¿½ + qï¿½)ï¿½ - (2pqa)ï¿½
      --------- = x;   --------------------------- = y
-      p² + q²                  p² + q²
+      pï¿½ + qï¿½                  pï¿½ + qï¿½
 
-    Here x² + y² = a².
+    Here xï¿½ + yï¿½ = aï¿½.
 
 
 160.--THE TWO HORSESHOES.
@@ -14458,7 +14458,7 @@ of the star.
 
 The reader will probably feel rewarded for any care and patience that
 he may bestow on cutting out the cardboard chain. We will suppose that
-he has a piece of cardboard measuring 8 in. by 2½ in., though the
+he has a piece of cardboard measuring 8 in. by 2ï¿½ in., though the
 dimensions are of no importance. Yet if you want a long chain you
 must, of course, take a long strip of cardboard. First rule pencil
 lines B B and C C, half an inch from the edges, and also the short
@@ -14654,7 +14654,7 @@ There is only one solution that will enable us to retain the larger of
 the two pieces with as little as possible cut from it. Fig. 1 in the
 following diagram shows how the smaller piece is to be cut, and Fig. 2
 how we should dissect the larger piece, while in Fig. 3 we have the new
-square 10 × 10 formed by the four pieces with all the chequers properly
+square 10 ï¿½ 10 formed by the four pieces with all the chequers properly
 matched. It will be seen that the piece D contains fifty-two chequers,
 and this is the largest piece that it is possible to preserve under the
 conditions.
@@ -14677,7 +14677,7 @@ area of the end give the square of the length. Similarly, the product of
 top and end divided by side gives the square of the breadth; and the
 product of side and end divided by the top gives the square of the
 depth. But we only need one of these operations. Let us take the first.
-Thus, 120 × 96 divided by 80 equals 144, the square of 12. Therefore the
+Thus, 120 ï¿½ 96 divided by 80 equals 144, the square of 12. Therefore the
 length is 12 inches, from which we can, of course, at once get the
 breadth and depth--10 in. and 8 in. respectively.
 
@@ -14688,14 +14688,14 @@ Whenever we have one side (a) of a right-angled triangle, and know the
 difference between the second side and the hypotenuse (which difference
 we will call b), then the length of the hypotenuse will be
 
-    a²    b
+    aï¿½    b
     --- + -.
     2b    2
 
 In the case of our puzzle this will be
 
-    48 × 48
-    ------- + 1½ in. = 32 ft. 1½ in.,
+    48 ï¿½ 48
+    ------- + 1ï¿½ in. = 32 ft. 1ï¿½ in.,
        6
 
 which is the length of the rope.
@@ -14759,8 +14759,8 @@ compasses.
 
 As the flag measures 4 ft. by 3 ft., the length of the diagonal (from
 corner to corner) is 5 ft. All you need do is to deduct half the
-length of this diagonal (2½ ft.) from a quarter of the distance all
-round the edge of the flag (3½ ft.)--a quarter of 14 ft. The
+length of this diagonal (2ï¿½ ft.) from a quarter of the distance all
+round the edge of the flag (3ï¿½ ft.)--a quarter of 14 ft. The
 difference (1 ft.) is the required width of the arm of the red cross.
 The area of the cross will then be the same as that of the white
 ground.
@@ -14835,8 +14835,8 @@ The triangular piece of land that was not for sale contains exactly
 eleven acres. Of course it is not difficult to find the answer if we
 follow the eccentric and tricky tracks of intricate trigonometry; or I
 might say that the application of a well-known formula reduces the
-problem to finding one-quarter of the square root of (4 × 370 × 116)
--(370 + 116 - 74)²--that is a quarter of the square root of 1936, which
+problem to finding one-quarter of the square root of (4 ï¿½ 370 ï¿½ 116)
+-(370 + 116 - 74)ï¿½--that is a quarter of the square root of 1936, which
 is one-quarter of 44, or 11 acres. But all that the reader really
 requires to know is the Pythagorean law on which many puzzles have been
 built, that in any right-angled triangle the square of the hypotenuse is
@@ -14873,13 +14873,13 @@ equals 116, the square estate on BC. Now, although the sides of our
 triangular estate are incommensurate, we have in this diagram all the
 exact figures that we need to discover the area with precision.
 
-The area of our triangle ADB is clearly half of 9 × 17, or 76½ acres.
-The area of AEC is half of 5 × 7, or 17½ acres; the area of CFB is half
-of 4 × 10, or 20 acres; and the area of the oblong EDFC is obviously 4 ×
-7, or 28 acres. Now, if we add together 17½, 20, and 28 = 65½, and
+The area of our triangle ADB is clearly half of 9 ï¿½ 17, or 76ï¿½ acres.
+The area of AEC is half of 5 ï¿½ 7, or 17ï¿½ acres; the area of CFB is half
+of 4 ï¿½ 10, or 20 acres; and the area of the oblong EDFC is obviously 4 ï¿½
+7, or 28 acres. Now, if we add together 17ï¿½, 20, and 28 = 65ï¿½, and
 deduct this sum from the area of the large triangle ADB (which we have
-found to be 76½ acres), what remains must clearly be the area of ABC.
-That is to say, the area we want must be 76½ - 65½ = 11 acres exactly.
+found to be 76ï¿½ acres), what remains must clearly be the area of ABC.
+That is to say, the area we want must be 76ï¿½ - 65ï¿½ = 11 acres exactly.
 
 
 190.--FARMER WURZEL'S ESTATE.
@@ -14888,7 +14888,7 @@ The area of the complete estate is exactly one hundred acres. To find
 this answer I use the following little formula,
 
       __________________
-    \/4ab - (a + b + c)²
+    \/4ab - (a + b + c)ï¿½
     --------------------
               4
 
@@ -14903,7 +14903,7 @@ Here is the proof. If every little dotted square in the diagram
 represents an acre, this must be a correct plan of the estate, for the
 squares of 5 and 1 together equal 26; the squares of 4 and 2 equal 20;
 and the squares of 3 and 3 added together equal 18. Now we see at once
-that the area of the triangle E is 2½, F is 4½, and G is 4. These added
+that the area of the triangle E is 2ï¿½, F is 4ï¿½, and G is 4. These added
 together make 11 acres, which we deduct from the area of the rectangle,
 20 acres, and we find that the field A contains exactly 9 acres. If you
 want to prove that B, C, and D are equal in size to A, divide them in
@@ -14912,9 +14912,9 @@ and you will find that the two pieces in every case, if cut out, will
 exactly fit together and form A.
 
 Or we can get our proof in a still easier way. The complete area of the
-squared diagram is 12 × 12 = 144 acres, and the portions 1, 2, 3, 4, not
-included in the estate, have the respective areas of 12½, 17½, 9½, and
-4½. These added together make 44, which, deducted from 144, leaves 100
+squared diagram is 12 ï¿½ 12 = 144 acres, and the portions 1, 2, 3, 4, not
+included in the estate, have the respective areas of 12ï¿½, 17ï¿½, 9ï¿½, and
+4ï¿½. These added together make 44, which, deducted from 144, leaves 100
 as the required area of the complete estate.
 
 
@@ -15084,7 +15084,7 @@ corner C. Now, as six equal equilateral triangles placed together will
 form a regular hexagon, as shown, it is evident that the shaded pasture
 is just one-sixth of the complete area of a circle. Therefore all we
 require is the radius (CD) of a circle containing six quarter-acres or
-1½ acres, which is equal to 9,408,960 square inches. As we only want
+1ï¿½ acres, which is equal to 9,408,960 square inches. As we only want
 our answer "to the nearest inch," it is sufficiently exact for our
 purpose if we assume that as 1 is to 3.1416, so is the diameter of a
 circle to its circumference. If, therefore, we divide the last number I
@@ -15184,7 +15184,7 @@ being the diagonal of a square, will always lie in the same direction,
 and will cut BF in H. Finally, if you wish to get an approximate measure
 for the distance BA, all you have to do is to multiply the length of the
 card by the decimal .366. Thus, if the card were 7 inches long, we get 7
-× .366 = 2.562, or a little more than 2½ inches, for the distance from B
+ï¿½ .366 = 2.562, or a little more than 2ï¿½ inches, for the distance from B
 to A.
 
 But the real joke of the puzzle is this: We have seen that the position
@@ -15229,7 +15229,7 @@ the large cylinder, which is 24 in. thick? Circles are to one another as
 the squares of their diameters. The square of 1/100 is 1/100000, and the
 square of 24 is 576; therefore the large cylinder contains 5,760,000 of
 the little wire cylinders. But we have seen that each of these wires is
-16 in. long; hence 16 × 5,760,000 = 92,160,000 inches as the complete
+16 in. long; hence 16 ï¿½ 5,760,000 = 92,160,000 inches as the complete
 length of the wire. Reduce this to miles, and we get 1,454 miles 2,880
 ft. as the length of the wire attached to the professor's kite.
 
@@ -15242,7 +15242,7 @@ questions that do not enter into the problem.
 Here is a general formula for solving this problem. Call the two sides
 of the rectangle a and b. Then
 
-    a + b - (a² + b² - ab)^½
+    a + b - (aï¿½ + bï¿½ - ab)^ï¿½
     ---------------------------
                  6
 
@@ -15294,7 +15294,7 @@ revolutions in the complete journey.
 1. The easiest way is to arrange the eighteen matches as in Diagrams 1
 and 2, making the length of the perpendicular AB equal to a match and a
 half. Then, if the matches are an inch in length, Fig. 1 contains two
-square inches and Fig. 2 contains six square inches--4 × 1½. The second
+square inches and Fig. 2 contains six square inches--4 ï¿½ 1ï¿½. The second
 case (2) is a little more difficult to solve. The solution is given in
 Figs. 3 and 4. For the purpose of construction, place matches
 temporarily on the dotted lines. Then it will be seen that as 3 contains
@@ -15364,7 +15364,7 @@ three from the top in ten ways and one from the bottom in five ways,
 making fifty. But we may also select three from the bottom and one from
 the top in fifty ways. We may thus select the four coins in one hundred
 ways, and the four removed may be arranged by permutation in twenty-four
-ways. Thus there are 24 × 100 = 2,400 different solutions.
+ways. Thus there are 24 ï¿½ 100 = 2,400 different solutions.
 
 [Illustration]
 
@@ -15474,20 +15474,20 @@ Move the frogs in the following order: 2, 4, 6, 5, 3, 1 (repeat these
 moves in the same order twice more), 2, 4, 6. This is a solution in
 twenty-one moves--the fewest possible.
 
-If n, the number of frogs, be even, we require (n² + n)/2 moves, of
-which (n² - n)/2 will be leaps and n simple moves. If n be odd, we
-shall need ((n² + 3n)/2) - 4 moves, of which (n² - n)/2 will be leaps
+If n, the number of frogs, be even, we require (nï¿½ + n)/2 moves, of
+which (nï¿½ - n)/2 will be leaps and n simple moves. If n be odd, we
+shall need ((nï¿½ + 3n)/2) - 4 moves, of which (nï¿½ - n)/2 will be leaps
 and 2n - 4 simple moves.
 
 In the even cases write, for the moves, all the even numbers in
 ascending order and the odd numbers in descending order. This series
-must be repeated ½n times and followed by the even numbers in
+must be repeated ï¿½n times and followed by the even numbers in
 ascending order once only. Thus the solution for 14 frogs will be (2, 4,
 6, 8, 10, 12, 14, 13, 11, 9, 7, 5, 3, 1) repeated 7 times and followed
 by 2, 4, 6, 8, 10, 12, 14 = 105 moves.
 
 In the odd cases, write the even numbers in ascending order and the odd
-numbers in descending order, repeat this series ½(n - 1) times, follow
+numbers in descending order, repeat this series ï¿½(n - 1) times, follow
 with the even numbers in ascending order (omitting n - 1), the odd
 numbers in descending order (omitting 1), and conclude with all the
 numbers (odd and even) in their natural order (omitting 1 and n). Thus
@@ -15533,10 +15533,10 @@ not give a minimum solution by the second method--only by the first.
  | Counters.|   No. of    |   No. of    | No. of   |   No. of   | of Moves. |
  |          |  Counters.  |   Moves.    |Counters. |   Moves.   |           |
  +----------+-------------+-------------+----------+------------+-----------+
- |    4n    | n-1 and n   |2(n-1)²+5n-7 | 2n+1     |2n²+3n+1    |4(n²+n-1)  |
- |   4n-2   | n-1  "  n   |2(n-1)²+5n-7 | 2n-1     |2(n-1)²+3n-2|4n²-5      |
- |   4n+1   | n    "  n+1 |2n²+5n-2     | 2n       |2n²+3n-4    |2(2n²+4n-3)|
- |   4n-1   | n-1  "  n   |2(n-1)²+5n-7 | 2n       |2n²+3n-4    |4n²+4n-9   |
+ |    4n    | n-1 and n   |2(n-1)ï¿½+5n-7 | 2n+1     |2nï¿½+3n+1    |4(nï¿½+n-1)  |
+ |   4n-2   | n-1  "  n   |2(n-1)ï¿½+5n-7 | 2n-1     |2(n-1)ï¿½+3n-2|4nï¿½-5      |
+ |   4n+1   | n    "  n+1 |2nï¿½+5n-2     | 2n       |2nï¿½+3n-4    |2(2nï¿½+4n-3)|
+ |   4n-1   | n-1  "  n   |2(n-1)ï¿½+5n-7 | 2n       |2nï¿½+3n-4    |4nï¿½+4n-9   |
  +----------+-------------+-------------+----------+------------+-----------+
 
                                 SECOND METHOD.
@@ -15546,15 +15546,15 @@ not give a minimum solution by the second method--only by the first.
  |Counters.|   No. of    |   No. of   |  No. of  |    No. of    | of Moves. |
  |         |  Counters.  |   Moves.   | Counters.|    Moves.    |           |
  +---------+-------------+------------+----------+--------------+-----------+
- |   4n    | n   and n   |2n²+3n-4    |  2n      | 2(n-1)²+5n-2 |4(n²+n-1)  |
- |  4n-2   | n-1  "  n-1 |2(n-1)²+3n-7|  2n      | 2(n-1)²+5n-2 |4n²-5      |
- |  4n+1   | n    "  n   |2n²+3n-4    |  2n+1    | 2n²+5n-2     |2(2n²+4n-3)|
- |  4n-1   | n    "  n   |2n²+3n-4    |  2n-1    | 2(n-1)²+5n-7 |4n²+4n-9   |
+ |   4n    | n   and n   |2nï¿½+3n-4    |  2n      | 2(n-1)ï¿½+5n-2 |4(nï¿½+n-1)  |
+ |  4n-2   | n-1  "  n-1 |2(n-1)ï¿½+3n-7|  2n      | 2(n-1)ï¿½+5n-2 |4nï¿½-5      |
+ |  4n+1   | n    "  n   |2nï¿½+3n-4    |  2n+1    | 2nï¿½+5n-2     |2(2nï¿½+4n-3)|
+ |  4n-1   | n    "  n   |2nï¿½+3n-4    |  2n-1    | 2(n-1)ï¿½+5n-7 |4nï¿½+4n-9   |
  +---------+-------------+------------+----------+--------------+-----------+
 
 More generally we may say that with m counters, where m is even and
-greater than 4, we require (m² + 4m - 16)/4 moves; and where m is odd
-and greater than 3, (m² + 6m - 31)/4 moves. I have thus shown the
+greater than 4, we require (mï¿½ + 4m - 16)/4 moves; and where m is odd
+and greater than 3, (mï¿½ + 6m - 31)/4 moves. I have thus shown the
 reader how to find the minimum number of moves for any case, and the
 character and direction of the moves. I will leave him to discover for
 himself how the actual order of moves is to be determined. This is a
@@ -16118,8 +16118,8 @@ route. Thus, whenever the traveller happens to be at I he can run up to
 A and back before proceeding on his route, or he may wait until he is at
 A and then run down to I and back to A. And so with the other lines that
 have to be traced twice. It is, therefore, clear that he can go over 25
-of the lines once only (25 × 10,000 miles = 250,000 miles) and 5 of the
-lines twice (5 × 20,000 miles = 100,000 miles), the total, 350,000 miles,
+of the lines once only (25 ï¿½ 10,000 miles = 250,000 miles) and 5 of the
+lines twice (5 ï¿½ 20,000 miles = 100,000 miles), the total, 350,000 miles,
 being the length of his travels and the shortest distance that is
 possible in visiting the whole body.
 
@@ -16346,10 +16346,10 @@ The correct answer is 1,992 different ways. Every F is either a corner F
 or a side F--standing next to a corner in its own square of F's. Now,
 FIED may be read _from_ a corner F in 16 ways; therefore DEIF may be
 read _into_ a corner F also in 16 ways; hence DEIFIED may be read
-_through_ a corner F in 16 × 16 = 256 ways. Consequently, the four
-corner F's give 4 × 256 = 1,024 ways. Then FIED may be read from a side
+_through_ a corner F in 16 ï¿½ 16 = 256 ways. Consequently, the four
+corner F's give 4 ï¿½ 256 = 1,024 ways. Then FIED may be read from a side
 F in 11 ways, and DEIFIED therefore in 121 ways. But there are eight
-side F's; consequently these give together 8 × 121 = 968 ways. Add 968
+side F's; consequently these give together 8 ï¿½ 121 = 968 ways. Add 968
 to 1,024 and we get the answer, 1,992.
 
 In this form the solution will depend on whether the number of letters
@@ -16370,7 +16370,7 @@ readings is 400.
 
 THE number of readings here is 63,504, as in the case of "WAS IT A RAT I
 SAW" (No. 30, _Canterbury Puzzles_). The general formula is that for
-palindromic sentences containing 2n + 1 letters there are (4(2^n -1))²
+palindromic sentences containing 2n + 1 letters there are (4(2^n -1))ï¿½
 readings.
 
 
@@ -16429,7 +16429,7 @@ everything will be quite obvious.
 
 262.--THOSE FIFTEEN SHEEP.
 
-If we read the exact words of the writer in the cyclopædia, we find that
+If we read the exact words of the writer in the cyclopï¿½dia, we find that
 we are not told that the pens were all necessarily empty! In fact, if
 the reader will refer back to the illustration, he will see that one
 sheep is already in one of the pens. It was just at this point that the
@@ -16532,8 +16532,8 @@ eight:--
     8 = 14,833
 
 To get these numbers, multiply successively by 2, 3, 4, 5, etc. When the
-multiplier is even, add 1; when odd, deduct 1. Thus, 3 × 1 - 1 = 2; 4 ×
-2 + 1 = 9; 5 × 9 - 1 = 44; and so on. Or you can multiply the sum of the
+multiplier is even, add 1; when odd, deduct 1. Thus, 3 ï¿½ 1 - 1 = 2; 4 ï¿½
+2 + 1 = 9; 5 ï¿½ 9 - 1 = 44; and so on. Or you can multiply the sum of the
 number of ways for n - 1 and n - 2 persons by n - 1, and so get the
 solution for n persons. Thus, 4(2 + 9) = 44; 5(9 + 44) = 265; and so on.
 
@@ -16636,25 +16636,25 @@ of no importance. The breaking of the balls on A may occupy any 4 out of
 these 16 places--that is, the combinations of 16 things, taken 4
 together, will be
 
-    13 × 14 × 15 × 16
+    13 ï¿½ 14 ï¿½ 15 ï¿½ 16
     ----------------- = 1,820
-     1 ×  2 ×  3 ×  4
+     1 ï¿½  2 ï¿½  3 ï¿½  4
 
 ways for A. In every one of these cases B may occupy any 4 out of the
 remaining 12 places, making
 
-     9 × 10 × 11 × 12
+     9 ï¿½ 10 ï¿½ 11 ï¿½ 12
     ----------------- = 495
-     1 ×  2 ×  3 ×  4
+     1 ï¿½  2 ï¿½  3 ï¿½  4
 
-ways. Thus 1,820 × 495 = 900,900 different placings are open to A and B.
+ways. Thus 1,820 ï¿½ 495 = 900,900 different placings are open to A and B.
 But for every one of these cases C may occupy
 
-    5 × 6 × 7 × 8
+    5 ï¿½ 6 ï¿½ 7 ï¿½ 8
     ------------- = 70
-    1 × 2 × 3 × 4
+    1 ï¿½ 2 ï¿½ 3 ï¿½ 4
 
-different places; so that 900,900 × 70 = 63,063,000 different placings
+different places; so that 900,900 ï¿½ 70 = 63,063,000 different placings
 are open to A, B, and C. In every one of these cases, D has no choice
 but to take the four places that remain. Therefore the correct answer is
 that the balls may be broken in 63,063,000 different ways under the
@@ -16921,7 +16921,7 @@ corners in the same row and column may contain 0, 0, or 1, 1, or 0, 1,
 or 1, 0. In the case of B, ten different selections may be made for the
 fourth corner; but in each of the cases C, D, and E, only nine
 selections are possible, because we cannot use the 9. Therefore with 8
-in the top left-hand corner there are 10 + (3 × 9) = 37 different
+in the top left-hand corner there are 10 + (3 ï¿½ 9) = 37 different
 solutions. If we then try 7 in the corner, the result will be 10 + 27 +
 40, or 77 solutions. With 6 we get 10 + 27 + 40 + 49 = 126; with 5, 10 +
 27 + 40 + 49 + 54 = 180; with 4, the same as with 5, + 55 = 235 ; with
@@ -16952,11 +16952,11 @@ with it.
 
 ]
 
-Here is a general formula for solving the puzzle: (n² + 3n + 2)(n² +
+Here is a general formula for solving the puzzle: (nï¿½ + 3n + 2)(nï¿½ +
 3n + 3)/6. Whatever may be the stipulated number of residents along
 each of the sides (which number is represented by n), the total number
 of different arrangements may be thus ascertained. In our particular
-case the number of residents was nine. Therefore (81 + 27 + 2) × (81 +
+case the number of residents was nine. Therefore (81 + 27 + 2) ï¿½ (81 +
 27 + 3) and the product, divided by 6, gives 2,035. If the number of
 residents had been 0, 1, 2, 3, 4, 5, 6, 7, or 8, the total
 arrangements would be 1, 7, 26, 70, 155, 301, 532, 876, or 1,365
@@ -16991,11 +16991,11 @@ pair is the one I gave as an example. I will suppose that we have
 written out all these crosses, always placing the first row of a pair in
 the upright and the second row in the horizontal arm. Now, if we leave
 the central figure fixed, there are 24 ways in which the numbers in the
-upright may be varied, for the four counters may be changed in 1 × 2 × 3
-× 4 = 24 ways. And as the four in the horizontal may also be changed in
+upright may be varied, for the four counters may be changed in 1 ï¿½ 2 ï¿½ 3
+ï¿½ 4 = 24 ways. And as the four in the horizontal may also be changed in
 24 ways for every arrangement on the other arm, we find that there are
-24 × 24 = 576 variations for every form; therefore, as there are 18
-forms, we get 18 × 576 = 10,368 ways. But this will include half the
+24 ï¿½ 24 = 576 variations for every form; therefore, as there are 18
+forms, we get 18 ï¿½ 576 = 10,368 ways. But this will include half the
 four reversals and half the four reflections that we barred, so we must
 divide this by 4 to obtain the correct answer to the Greek Cross, which
 is thus 2,592 different ways. The division is by 4 and not by 8, because
@@ -17004,7 +17004,7 @@ reserving one number for the upright and the other for the horizontal.
 
 In the case of the Latin Cross, it is obvious that we have to deal with
 the same 18 forms of pairing. The total number of different ways in this
-case is the full number, 18 × 576. Owing to the fact that the upper and
+case is the full number, 18 ï¿½ 576. Owing to the fact that the upper and
 lower arms are unequal in length, permutations will repeat by
 reflection, but not by reversal, for we cannot reverse. Therefore this
 fact only entails division by 2. But in every pair we may exchange the
@@ -17083,7 +17083,7 @@ as any match may be joined at either of its ends, they may further be
 varied (after their situations are settled for any particular
 arrangement) in 16 different ways. In every arrangement the sixth stick
 may be added in 2 different ways. Now multiply these results together,
-and we get 5 × 24 × 16 × 2 = 3,840 as the exact number of ways in which
+and we get 5 ï¿½ 24 ï¿½ 16 ï¿½ 2 = 3,840 as the exact number of ways in which
 the pyramid may be constructed. This method excludes all possibility of
 error.
 
@@ -17157,10 +17157,10 @@ the puzzle.
 [Illustration]
 
 THE number of ways in which nine things may be arranged in a row without
-any restrictions is 1 × 2 × 3 × 4 × 5 × 6 × 7 × 8 × 9 = 362,880. But we
+any restrictions is 1 ï¿½ 2 ï¿½ 3 ï¿½ 4 ï¿½ 5 ï¿½ 6 ï¿½ 7 ï¿½ 8 ï¿½ 9 = 362,880. But we
 are told that the two circular rings must never be together; therefore
 we must deduct the number of times that this would occur. The number is
-1 × 2 × 3 × 4 × 5 × 6 × 7 × 8 = 40,320 × 2 = 80,640, because if we
+1 ï¿½ 2 ï¿½ 3 ï¿½ 4 ï¿½ 5 ï¿½ 6 ï¿½ 7 ï¿½ 8 = 40,320 ï¿½ 2 = 80,640, because if we
 consider the two circular links to be inseparably joined together they
 become as one link, and eight links are capable of 40,320 arrangements;
 but as these two links may always be put on in the orders AB or BA, we
@@ -17186,9 +17186,9 @@ predecessor in the same way, as in the diagram) only the white sides
 should be uppermost as in A, then the answer would be 564,480, as
 above--ignoring for the present all reversals of the completed chain.
 If, however, the first link were allowed to be placed either side up,
-then we could have either A or B, and the answer would be 2 × 564,480 =
+then we could have either A or B, and the answer would be 2 ï¿½ 564,480 =
 1,128,960; if two links might be placed either way up, the answer would
-be 4 × 564,480; if three links, then 8 × 564,480, and so on. Since,
+be 4 ï¿½ 564,480; if three links, then 8 ï¿½ 564,480, and so on. Since,
 therefore, every link may be placed either side up, the number will be
 564,480 multiplied by 2^9, or by 512. This raises our total to
 289,013,760.
@@ -17235,10 +17235,10 @@ How I arrive at these figures I will not at present explain, because it
 would take a lot of space. The dominoes may, therefore, be arranged in a
 circle in just 264 different ways, leaving out the doubles. Now, in any
 one of these circles the five doubles may be inserted in 2^5 = 32
-different ways. Therefore when we include the doubles there are 264 × 32
+different ways. Therefore when we include the doubles there are 264 ï¿½ 32
 = 8,448 different circular arrangements. But each of those circles may
 be broken (so as to form our straight line) in any one of 15 different
-places. Consequently, 8,448 × 15 gives 126,720 different ways as the
+places. Consequently, 8,448 ï¿½ 15 gives 126,720 different ways as the
 correct answer to the puzzle.
 
 [Illustration:
@@ -17366,7 +17366,7 @@ Here is a table of the results:--
         41  94   120   255
 
 I have not attempted the task of enumerating the ways of dividing a
-board 8 × 8--that is, an ordinary chessboard. Whatever the method
+board 8 ï¿½ 8--that is, an ordinary chessboard. Whatever the method
 adopted, the solution would entail considerable labour.
 
 
@@ -17382,7 +17382,7 @@ the pieces are shaded so as to make the solution quite clear to the eye.
 
 290.--BOARDS WITH AN ODD NUMBER OF SQUARES.
 
-There are fifteen different ways of cutting the 5 × 5 board (with the
+There are fifteen different ways of cutting the 5 ï¿½ 5 board (with the
 central square removed) into two pieces of the same size and shape.
 Limitations of space will not allow me to give diagrams of all these,
 but I will enable the reader to draw them all out for himself without
@@ -17587,8 +17587,8 @@ with the top row, it is clear that we may put our first rook on any one
 of eight different squares. Wherever it is placed, we have the option of
 seven squares for the second rook in the second row. Then we have six
 squares from which to select the third row, five in the fourth, and so
-on. Therefore the number of our different ways must be 8 × 7 × 6 × 5 × 4
-× 3 × 2 × 1 = 40,320 (that is 8!), which is the correct answer.
+on. Therefore the number of our different ways must be 8 ï¿½ 7 ï¿½ 6 ï¿½ 5 ï¿½ 4
+ï¿½ 3 ï¿½ 2 ï¿½ 1 = 40,320 (that is 8!), which is the correct answer.
 
 How many ways there are if mere reversals and reflections are not
 counted as different has not yet been determined; it is a difficult
@@ -17679,7 +17679,7 @@ bishop must always be placed on one of the sides of the board--that
 is, somewhere on a row or file on the extreme edge. The puzzle,
 therefore, consists in counting the number of different ways that we
 can arrange the fourteen round the edge of the board without attack.
-This is not a difficult matter. On a chessboard of n² squares 2n - 2
+This is not a difficult matter. On a chessboard of nï¿½ squares 2n - 2
 bishops (the maximum number) may always be placed in 2^n ways without
 attacking. On an ordinary chessboard n would be 8; therefore 14
 bishops may be placed in 256 different ways. It is rather curious that
@@ -17794,14 +17794,14 @@ is one solution. But in each square we may put the letters in the top
 line in twenty-four different ways without altering the scheme of
 arrangement. Thus, in Diagram 4 the S's are similarly placed to the D's
 in 2, the H's to the S's, the C's to the H's, and the D's to the C's. It
-clearly follows that there must be 24×24 = 576 ways of combining the two
+clearly follows that there must be 24ï¿½24 = 576 ways of combining the two
 primitive arrangements. But the error that Labosne fell into was that of
 assuming that the A, K, Q, J must be arranged in the form 1, and the D,
 S, H, C in the form 2. He thus included reflections and half-turns, but
 not quarter-turns. They may obviously be interchanged. So that the
-correct answer is 2 × 576 = 1,152, counting reflections and reversals as
+correct answer is 2 ï¿½ 576 = 1,152, counting reflections and reversals as
 different. Put in another manner, the pairs in the top row may be
-written in 16 × 9 × 4 × 1 = 576 different ways, and the square then
+written in 16 ï¿½ 9 ï¿½ 4 ï¿½ 1 = 576 different ways, and the square then
 completed in 2 ways, making 1,152 ways in all.
 
 
@@ -18076,13 +18076,13 @@ There are 6,480 ways of placing the man and the lion, if there are no
 restrictions whatever except that they must be on different spots. This
 is obvious, because the man may be placed on any one of the 81 spots,
 and in every case there are 80 spots remaining for the lion; therefore
-81 × 80 = 6,480. Now, if we deduct the number of ways in which the lion
+81 ï¿½ 80 = 6,480. Now, if we deduct the number of ways in which the lion
 and the man may be placed on the same path, the result must be the
 number of ways in which they will not be on the same path. The number of
 ways in which they may be in line is found without much difficulty to be
 816. Consequently, 6,480 - 816 = 5,664, the required answer.
 
-The general solution is this: 1/3n(n - 1)(3n² - n + 2). This is, of
+The general solution is this: 1/3n(n - 1)(3nï¿½ - n + 2). This is, of
 course, equivalent to saying that if we call the number of squares on
 the side of a "chessboard" n, then the formula shows the number of
 ways in which two bishops may be placed without attacking one another.
@@ -18666,7 +18666,7 @@ either pawn may make either 5 or 6 moves in reaching the eighth square.
 There are, therefore, four cases to be considered: (1) A 6 moves and B 6
 moves; (2) A 6 moves and B 5 moves; (3) A 5 moves and B 6 moves; (4) A 5
 moves and B 5 moves. In case (1) there are 12 moves, and we may select
-any 6 of these for A. Therefore 7×8×9×10×11×12 divided by 1×2×3×4×5×6
+any 6 of these for A. Therefore 7ï¿½8ï¿½9ï¿½10ï¿½11ï¿½12 divided by 1ï¿½2ï¿½3ï¿½4ï¿½5ï¿½6
 gives us the number of variations for this case--that is, 924. Similarly
 for case (2), 6 selections out of 11 will be 462; in case (3), 5
 selections out of 11 will also be 462; and in case (4), 5 selections out
@@ -18681,7 +18681,7 @@ The White pawns may be arranged in 40,320 ways, the White rooks in 2
 ways, the bishops in 2 ways, and the knights in 2 ways. Multiply these
 numbers together, and we find that the White pieces may be placed in
 322,560 different ways. The Black pieces may, of course, be placed in
-the same number of ways. Therefore the men may be set up in 322,560 ×
+the same number of ways. Therefore the men may be set up in 322,560 ï¿½
 322,560 = 104,044,953,600 ways. But the point that nearly everybody
 overlooks is that the board may be placed in two different ways for
 every arrangement. Therefore the answer is doubled, and is
@@ -18692,9 +18692,9 @@ every arrangement. Therefore the answer is doubled, and is
 
 There are 1,296 different rectangles in all, 204 of which are squares,
 counting the square board itself as one, and 1,092 rectangles that are
-not squares. The general formula is that a board of n² squares
-contains ((n² + n)²)/4 rectangles, of which (2n³ + 3n² + n)/6 are
-squares and (3n^4 + 2n³ - 3n² - 2n)/12 are rectangles that are not
+not squares. The general formula is that a board of nï¿½ squares
+contains ((nï¿½ + n)ï¿½)/4 rectangles, of which (2nï¿½ + 3nï¿½ + n)/6 are
+squares and (3n^4 + 2nï¿½ - 3nï¿½ - 2n)/12 are rectangles that are not
 squares. It is curious and interesting that the total number of
 rectangles is always the square of the triangular number whose side is
 n.
@@ -18918,7 +18918,7 @@ Black's moves are forced, so need not be given.
 
 358.--THE SIX PAWNS.
 
-The general formula for six pawns on all squares greater than 2² is
+The general formula for six pawns on all squares greater than 2ï¿½ is
 this: Six times the square of the number of combinations of n things
 taken three at a time, where n represents the number of squares on the
 side of the board. Of course, where n is even the unoccupied squares
@@ -18960,15 +18960,15 @@ of solutions.
 
 We find thus that, by using form A alone and confining our operations to
 the three top rows, we get as many answers as there are combinations of
-8 things taken 3 at a time. This is (8 × 7 × 6)/(1 × 2 × 3) = 56. And it
+8 things taken 3 at a time. This is (8 ï¿½ 7 ï¿½ 6)/(1 ï¿½ 2 ï¿½ 3) = 56. And it
 will at once strike the reader that if there are 56 different ways of
 electing the columns, there must be for each of these ways just 56 ways
 of selecting the rows, for we may simultaneously work that "sliding"
 process downwards to the very bottom in exactly the same way as we have
 worked from left to right. Therefore the total number of ways in which
-form A may be applied is 56 × 6 = 3,136. But there are, as we have seen,
+form A may be applied is 56 ï¿½ 6 = 3,136. But there are, as we have seen,
 six arrangements, and we have only dealt with one of these, A. We must,
-therefore, multiply this result by 6, which gives us 3,136 × 6 = 18,816,
+therefore, multiply this result by 6, which gives us 3,136 ï¿½ 6 = 18,816,
 which is the total number of ways, as we have already stated.
 
 
@@ -19156,7 +19156,7 @@ To be more exact, it was 2.93 gallons.
 There are three ways of mixing the teas. Taking them in the order of
 quality, 2s. 6d., 2s. 3d., 1s. 9p., mix 16 lbs., 1 lb., 3 lbs.; or 14
 lbs., 4 lbs., 2 lbs.; or 12 lbs., 7 lbs., 1 lb. In every case the
-twenty pounds mixture should be worth 2s. 4½d. per pound; but the last
+twenty pounds mixture should be worth 2s. 4ï¿½d. per pound; but the last
 case requires the smallest quantity of the best tea, therefore it is
 the correct answer.
 
@@ -19186,7 +19186,7 @@ exactly pack the remaining eight slabs on edge, end to end.
 372.--THE BARRELS OF HONEY.
 
 The only way in which the barrels could be equally divided among the
-three brothers, so that each should receive his 3½ barrels of honey
+three brothers, so that each should receive his 3ï¿½ barrels of honey
 and his 7 barrels, is as follows:--
 
       Full.  Half-full. Empty.
@@ -19236,8 +19236,8 @@ Here is the solution:--
     G T8 3 | ( J } |     5
     G T8 3 | {J 5) |
 
-G, J, and T stand for Giles, Jasper, and Timothy; and 8, 5, 3, for £800,
-£500, and £300 respectively. The two side columns represent the left
+G, J, and T stand for Giles, Jasper, and Timothy; and 8, 5, 3, for ï¿½800,
+ï¿½500, and ï¿½300 respectively. The two side columns represent the left
 bank and the right bank, and the middle column the river. Thirteen
 crossings are necessary, and each line shows the position when the boat
 is in mid-stream during a crossing, the point of the bracket indicating
@@ -19524,7 +19524,7 @@ eighteen different ways of grouping, and if we take any one of these and
 keep the odd card (that I have called "removed") at the head of the
 column, then one set of numbers can be varied in order in twenty-four
 ways in the column and the other four twenty-four ways in the
-horizontal, or together they may be varied in 24 × 24 = 576 ways. And as
+horizontal, or together they may be varied in 24 ï¿½ 24 = 576 ways. And as
 there are eighteen such cases, we multiply this number by 18 and get
 10,368, the correct number of ways of placing the cards. As this number
 includes the reflections, we must divide by 2, but we have also to
@@ -19651,7 +19651,7 @@ last case is the only one that would apply.
 
 390.--THE HORSE-RACE PUZZLE.
 
-The answer is: £12 on Acorn, £15 on Bluebottle, £20 on Capsule.
+The answer is: ï¿½12 on Acorn, ï¿½15 on Bluebottle, ï¿½20 on Capsule.
 
 391.--THE MOTOR-CAR RACE.
 
@@ -19932,11 +19932,11 @@ result would not be a certain win for the first player.
 [Illustration:
 
     +---+---+---+
-    | 4½| 8 | 2½|
+    | 4ï¿½| 8 | 2ï¿½|
     +---+---+---+
     | 3 | 5 | 7 |
     +---+---+---+
-    | 7½| 2 | 5½|
+    | 7ï¿½| 2 | 5ï¿½|
     +---+---+---+
 
 ]
@@ -20597,13 +20597,13 @@ equidistant, for every penny will touch every other penny.
 The hasty reader will assume that the bookworm, in boring from the first
 to the last page of a book in three volumes, standing in their proper
 order on the shelves, has to go through all three volumes and four
-covers. This, in our case, would mean a distance of 9½ in., which is
+covers. This, in our case, would mean a distance of 9ï¿½ in., which is
 a long way from the correct answer. You will find, on examining any
 three consecutive volumes on your shelves, that the first page of Vol.
 I. and the last page of Vol. III. are actually the pages that are
 nearest to Vol. II., so that the worm would only have to penetrate four
-covers (together, ½ in.) and the leaves in the second volume (3 in.),
-or a distance of 3½ inches, in order to tunnel from the first page to
+covers (together, ï¿½ in.) and the leaves in the second volume (3 in.),
+or a distance of 3ï¿½ inches, in order to tunnel from the first page to
 the last.
 
 
@@ -20724,11 +20724,11 @@ penny and get two apples more than we wanted by buying the full twelve.
 In the same way, since there is a regular scale of reduction for plates
 painted alike, we actually save by having two figures painted on that
 odd plate. Supposing, for example, that we have thirty plates painted
-alike with 5 on one side and 6 on the other. The rate would be 4¾d., and
-the cost 11s. 10½d. But if the odd plate with, say, only a 5 on one side
+alike with 5 on one side and 6 on the other. The rate would be 4ï¿½d., and
+the cost 11s. 10ï¿½d. But if the odd plate with, say, only a 5 on one side
 of it have a 6 painted on the other side, we get thirty-one plates at
-the reduced rate of 4½d., thus saving a farthing on each of the previous
-thirty, and reducing the cost of the last one from 1s. to 4½d.
+the reduced rate of 4ï¿½d., thus saving a farthing on each of the previous
+thirty, and reducing the cost of the last one from 1s. to 4ï¿½d.
 
 But even after these points are all seen there comes in a new
 difficulty: for although it will be found that all the 8's may be on the
@@ -20743,20 +20743,20 @@ Chumpley St. Winifred. Where the sign X is placed between two figures,
 it implies that one of these figures is on one side of the plate and the
 other on the other side.
 
-                               d.   £ s.  d.
-    31 plates painted 5 X 9 @  4½ = 0 11  7½
-    30       "        7 X 8 @  4¾ = 0 11 10½
+                               d.   ï¿½ s.  d.
+    31 plates painted 5 X 9 @  4ï¿½ = 0 11  7ï¿½
+    30       "        7 X 8 @  4ï¿½ = 0 11 10ï¿½
     21       "        1 X 2 @  7  = 0 12  3
     21       "        3 X 0 @  7  = 0 12  3
-    12       "        1 X 3 @  9¼ = 0  9  3
-    12       "        2 X 4 @  9¼ = 0  9  3
-    12       "        9 X 4 @  9¼ = 0  9  3
-     8       "        4 X 0 @ 10¼ = 0  6 10
+    12       "        1 X 3 @  9ï¿½ = 0  9  3
+    12       "        2 X 4 @  9ï¿½ = 0  9  3
+    12       "        9 X 4 @  9ï¿½ = 0  9  3
+     8       "        4 X 0 @ 10ï¿½ = 0  6 10
      1       "        5 X 4 @ 12  = 0  1  0
      1       "        5 X 0 @ 12  = 0  1  0
     149 plates @ 6d. each         = 3 14  6
                                   ----------
-                                   £7 19  1
+                                   ï¿½7 19  1
 
 Of course, if we could increase the number of plates, we might get the
 painting done for nothing, but such a contingency is prevented by the
@@ -20770,7 +20770,7 @@ immense number of attempts at its solution sent to me from all parts of
 the United Kingdom and from several Continental countries show a very
 kind disposition amongst our readers to help the worthy vicar of
 Chumpley St. Winifred over his parochial difficulty. Every conceivable
-estimate, from a few shillings up to as high a sum as £1,347, 10s.,
+estimate, from a few shillings up to as high a sum as ï¿½1,347, 10s.,
 seems to have come to hand. But the astonishing part of it is that,
 after going carefully through the tremendous pile of correspondence, I
 find that only one competitor has succeeded in maintaining the
@@ -20945,7 +20945,7 @@ INDEX.
         Axiom, A Puzzling, 138.
 
 
-        Bachet de Méziriac, 90, 109, 112.
+        Bachet de Mï¿½ziriac, 90, 109, 112.
 
         Bachet's Square, 90, 216.
 
@@ -21105,7 +21105,7 @@ INDEX.
 
         Clare, John, 58.
 
-        Clock Formulæ, 154.
+        Clock Formulï¿½, 154.
           ---- Puzzles, 9.
           ---- The Club, 10, 154.
           ---- The Railway Station, 11, 155.
@@ -21313,7 +21313,7 @@ INDEX.
 
         Frankenstein, E.N., 232.
 
-        Frénicle, B., 119, 168.
+        Frï¿½nicle, B., 119, 168.
 
         Frogs, The Educated, 59, 194-
           ---- The Four, 103, 229.
@@ -21541,7 +21541,7 @@ INDEX.
 
         Mellor, W.M.F., 242.
 
-        Ménages, Problême de, 76.
+        Mï¿½nages, Problï¿½me de, 76.
 
         Mersenne, M., 168.
 
@@ -21621,7 +21621,7 @@ INDEX.
 
         Noughts and Crosses, 58, 117.
 
-        _Nouvelles Annales de Mathématiques_, 14.
+        _Nouvelles Annales de Mathï¿½matiques_, 14.
 
         Number Checks Puzzle, The, 16, 158.
 
@@ -21951,7 +21951,7 @@ INDEX.
 
         Trees, The Twenty-one, 57, 190.
 
-        Trémaux, M., 133, 135.
+        Trï¿½maux, M., 133, 135.
 
         Triangle, The Dissected, 38, 173.
 

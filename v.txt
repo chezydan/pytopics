@@ -13,7 +13,7 @@
 
     <script>window.archive_setup=[]</script>
         <meta charset="UTF-8">    <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=cc2ec54" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=df7cb7b" type="text/javascript"></script>
 
     <script>
       'use strict';
@@ -30,9 +30,9 @@
         <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
     <script src="//archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
     <script src="//archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/polyfill.min.js?v=cc2ec54" type="text/javascript"></script>
-    <script src="//archive.org/includes/build/js/archive.min.js?v=cc2ec54" type="text/javascript"></script>
-    <link href="//archive.org/includes/build/css/archive.min.css?v=cc2ec54" rel="stylesheet" type="text/css"/>
+    <script src="//archive.org/includes/build/js/polyfill.min.js?v=df7cb7b" type="text/javascript"></script>
+    <script src="//archive.org/includes/build/js/archive.min.js?v=df7cb7b" type="text/javascript"></script>
+    <link href="//archive.org/includes/build/css/archive.min.css?v=df7cb7b" rel="stylesheet" type="text/css"/>
     <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
       </head>
   <body class="navia ">
@@ -50,7 +50,7 @@
                                                                 <div class="row toprow web" style="max-width:1000px;margin:auto;">
                     <div class="col-xs-12">
                       <div class="wayback-txt">
-                        Search the history of over 345 billion                        <a style="display:inline"
+                        Search the history of over 347 billion                        <a style="display:inline"
                           data-event-click-tracking="TopNav|WaybackMachineStatsLink"
                           href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/"
                           >web pages</a> on the Internet.
@@ -139,7 +139,7 @@
                                               </div><!--/.col-sm-2-->
                                                                 <div class="col-sm-2 col-xs-7">
                                                   <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/booksbylanguage" title="Books by Language" data-event-click-tracking="TopNav|TopLink-BooksByLanguage">Books by Language</a>                                                          <a href="https://archive.org/details/phillipsacademy-ol" title="Phillips Academy - Open Libraries" data-event-click-tracking="TopNav|TopLink-PhillipsAcademyOpenLibraries">Phillips Academy - Open Libraries</a>                                                      </div>
+                                                                                      <a href="https://archive.org/details/ualbertawiedrick-ol" title="University of Alberta Wiedrick Library - Open Libraries" data-event-click-tracking="TopNav|TopLink-UniversityOfAlbertaWiedrickLibraryOpenLibraries">University of Alberta Wiedrick Library - Open Libraries</a>                                                          <a href="https://archive.org/details/booksbylanguage" title="Books by Language" data-event-click-tracking="TopNav|TopLink-BooksByLanguage">Books by Language</a>                                                          <a href="https://archive.org/details/spokanepubliclibrary-ol" title="Spokane Public Library - Open Libraries" data-event-click-tracking="TopNav|TopLink-SpokanePublicLibraryOpenLibraries">Spokane Public Library - Open Libraries</a>                                                      </div>
 
                           
                                               </div><!--/.col-sm-2-->
@@ -521,7 +521,7 @@
         >Advanced Search</a>
           </div>
     
-                              <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"01/18/2019"}</script>
+                              <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"02/03/2019"}</script>
     
                         <input type="submit" value="Search"/>
                       </form>
@@ -5395,122 +5395,122 @@ Miss Was Kinah
     </div><!--/#wrap-->
     
     <!-- Timing ...
-     rendered on: www12.us.archive.org
+     rendered on: www15.us.archive.org
  seconds diff sec                message   stack(file:line:function)
 =========================================================
   0.0000   0.0000          petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
-                                             |common/ia:55:require_once
-                                             |setup.php:338:log
-  0.0010   0.0010       call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |common/ia:66:require_once
+                                             |setup.php:411:log
+  0.0011   0.0011       call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:1951:log
-  0.0058   0.0047       redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2041:log
+  0.0061   0.0049       redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2024:fetch
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2092:fetch
                                              |Metadata/RecordServer.inc:141:execute
-                                             |RecordServer/FetchRecordOp.inc:53:log
-  0.0089   0.0031      redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |RecordServer/FetchRecordOp.inc:52:log
+  0.0124   0.0063      redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2024:fetch
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2092:fetch
                                              |Metadata/RecordServer.inc:141:execute
-                                             |RecordServer/FetchRecordOp.inc:59:log
-  0.0326   0.0237     meta_xml_get start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |RecordServer/FetchRecordOp.inc:58:log
+  0.0447   0.0323     meta_xml_get start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:2975:log
-  0.0330   0.0004    meta_xml_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3091:log
+  0.0452   0.0004    meta_xml_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:2982:xml_to_json
-                                             |Metadata.inc:3853:_xml_to_json
-                                             |Metadata.inc:3872:log
-  0.0864   0.0534   meta_xml_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3098:xml_to_json
+                                             |Metadata.inc:4050:_xml_to_json
+                                             |Metadata.inc:4069:log
+  0.0922   0.0470   meta_xml_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:2982:xml_to_json
-                                             |Metadata.inc:3853:_xml_to_json
-                                             |Metadata.inc:4194:log
-  0.0865   0.0002    meta_xml_get finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3098:xml_to_json
+                                             |Metadata.inc:4050:_xml_to_json
+                                             |Metadata.inc:4391:log
+  0.0924   0.0003    meta_xml_get finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:2984:log
-  0.0869   0.0004       start db connect   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3100:log
+  0.0930   0.0006       start db connect   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:3050:adapters_populate
-                                             |Metadata.inc:4254:populate
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3166:adapters_populate
+                                             |Metadata.inc:4451:populate
                                              |Metadata/Adapter/SimpleListsAdapter.inc:57:get_memberships
                                              |SimpleLists.inc:22:get_records
                                              |SimpleLists/Storage.inc:27:q
@@ -5521,20 +5521,20 @@ Miss Was Kinah
                                              |DB.inc:754:connect
                                              |DB.inc:105:conn
                                              |DB.inc:855:log
-  0.0983   0.0114                 got db   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1066   0.0136                 got db   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:3050:adapters_populate
-                                             |Metadata.inc:4254:populate
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3166:adapters_populate
+                                             |Metadata.inc:4451:populate
                                              |Metadata/Adapter/SimpleListsAdapter.inc:57:get_memberships
                                              |SimpleLists.inc:22:get_records
                                              |SimpleLists/Storage.inc:27:q
@@ -5545,58 +5545,58 @@ Miss Was Kinah
                                              |DB.inc:754:connect
                                              |DB.inc:105:conn
                                              |DB.inc:900:log
-  0.1048   0.0065      redis_write start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1148   0.0082      redis_write start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:3111:update
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3227:update
                                              |Metadata/RecordServer.inc:200:execute
                                              |RecordServer/UpdateRecordOp.inc:45:commit_temp_record
                                              |UpdateRecordOp.inc:90:log
-  0.1070   0.0022     redis_write finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1165   0.0017     redis_write finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:325:getItem
                                              |common/Item.inc:77:parseMetadata
                                              |Item.inc:132:get_obj
-                                             |Metadata.inc:420:get_json_obj
-                                             |Metadata.inc:1792:direct
+                                             |Metadata.inc:470:get_json_obj
+                                             |Metadata.inc:1881:direct
                                              |Caching/AbstractReactiveCache.inc:281:do_recompute
                                              |AbstractReactiveCache.inc:392:call_user_func_array
                                              |./unknown:unknown:{closure}
-                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1831:_get_json_obj
-                                             |Metadata.inc:2107:fill_cache
-                                             |Metadata.inc:3111:update
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1920:_get_json_obj
+                                             |Metadata.inc:2196:fill_cache
+                                             |Metadata.inc:3227:update
                                              |Metadata/RecordServer.inc:200:execute
                                              |RecordServer/UpdateRecordOp.inc:45:commit_temp_record
                                              |UpdateRecordOp.inc:97:log
-  0.1077   0.0007    begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1173   0.0008    begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:979:head
-                                             |common/Nav.inc:116:__construct
-                                             |Nav.inc:185:session_start
+                                             |common/Nav.inc:117:__construct
+                                             |Nav.inc:186:session_start
                                              |Cookies.inc:61:log
-  0.1079   0.0002     done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.1174   0.0002     done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:979:head
-                                             |common/Nav.inc:116:__construct
-                                             |Nav.inc:185:session_start
+                                             |common/Nav.inc:117:__construct
+                                             |Nav.inc:186:session_start
                                              |Cookies.inc:67:log
-  0.2574   0.1495               bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+  0.2394   0.1220               bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
                                              |download.php:104:main
                                              |download.php:543:stream
                                              |download.php:1011:footer
-                                             |common/setup.php:142:footer
-                                             |Nav.inc:1446:dump
+                                             |common/setup.php:179:footer
+                                             |Nav.inc:1447:dump
                                              |Bug.inc:114:log
     -->
     <script type="text/javascript">
@@ -5604,8 +5604,8 @@ if (window.archive_analytics) {
   var vs = window.archive_analytics.get_data_packets();
   for (var i in vs) {
     vs[i]['cache_bust']=Math.random();
-    vs[i]['server_ms']=257;
-    vs[i]['server_name']="www12.us.archive.org";
+    vs[i]['server_ms']=239;
+    vs[i]['server_name']="www15.us.archive.org";
       }
 
   if ($(".more_search").size()>0) {
