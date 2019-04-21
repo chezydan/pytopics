@@ -26,8 +26,7 @@ def tableArrays (X,Y):
 
 def plotFunc(X,Y,adjust=True):
     '''plots function assumes len(X) == len(Y)'''
-    if X ==[0]:
-        X=[x for x in range(-10,10,1)]
+   
     plt.figure(figsize=(8,4))
     plt.plot(X,Y)
     if adjust:
