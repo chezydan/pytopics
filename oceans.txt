@@ -1,7 +1,1 @@
-Pacific
-Atlantic
-Indian
-Southern
-Arctic
-=======================
-These are the 5 oceans
+PacificAtlanticIndianSouthernArctic
